@@ -1,0 +1,2492 @@
+city,year,crime,incidences,rate
+Agra,2014,Attempt to rape,78,4.5
+Agra,2014,Attempt to commit C.H. Not Amounting To Murder,88,5
+Agra,2014,Attempt To Commit Murder,17,1
+Agra,2014,Murder,71,4.1
+Agra,2014,Total Rape,38,4.7
+Ahmedabad,2014,Attempt to rape,82,1.3
+Ahmedabad,2014,Attempt to commit C.H. Not Amounting To Murder,61,1
+Ahmedabad,2014,Attempt To Commit Murder,6,0.1
+Ahmedabad,2014,Murder,0,0
+Ahmedabad,2014,Total Rape,100,3.3
+Allahabad,2014,Attempt to rape,33,2.7
+Allahabad,2014,Attempt to commit C.H. Not Amounting To Murder,59,4.8
+Allahabad,2014,Attempt To Commit Murder,8,0.7
+Allahabad,2014,Murder,0,0
+Allahabad,2014,Total Rape,20,3.6
+Amritsar,2014,Attempt to rape,29,2.4
+Amritsar,2014,Attempt to commit C.H. Not Amounting To Murder,75,6.3
+Amritsar,2014,Attempt To Commit Murder,2,0.2
+Amritsar,2014,Murder,3,0.3
+Amritsar,2014,Total Rape,34,6.1
+Asansol,2014,Attempt to rape,48,3.9
+Asansol,2014,Attempt to commit C.H. Not Amounting To Murder,164,13.2
+Asansol,2014,Attempt To Commit Murder,10,0.8
+Asansol,2014,Murder,0,0
+Asansol,2014,Total Rape,16,2.7
+Aurangabad,2014,Attempt to rape,35,2.9
+Aurangabad,2014,Attempt to commit C.H. Not Amounting To Murder,54,4.5
+Aurangabad,2014,Attempt To Commit Murder,0,0
+Aurangabad,2014,Murder,0,0
+Aurangabad,2014,Total Rape,27,4.7
+Bengaluru,2014,Attempt to rape,241,2.8
+Bengaluru,2014,Attempt to commit C.H. Not Amounting To Murder,489,5.8
+Bengaluru,2014,Attempt To Commit Murder,21,0.2
+Bengaluru,2014,Murder,0,0
+Bengaluru,2014,Total Rape,104,2.6
+Bhopal,2014,Attempt to rape,52,2.8
+Bhopal,2014,Attempt to commit C.H. Not Amounting To Murder,96,5.1
+Bhopal,2014,Attempt To Commit Murder,2,0.1
+Bhopal,2014,Murder,3,0.2
+Bhopal,2014,Total Rape,178,19.8
+Chandigarh City,2014,Attempt to rape,21,2
+Chandigarh City,2014,Attempt to commit C.H. Not Amounting To Murder,30,2.9
+Chandigarh City,2014,Attempt To Commit Murder,6,0.6
+Chandigarh City,2014,Murder,4,0.4
+Chandigarh City,2014,Total Rape,51,11
+Chennai,2014,Attempt to rape,161,1.9
+Chennai,2014,Attempt to commit C.H. Not Amounting To Murder,225,2.6
+Chennai,2014,Attempt To Commit Murder,0,0
+Chennai,2014,Murder,0,0
+Chennai,2014,Total Rape,65,1.5
+Coimbatore,2014,Attempt to rape,21,1
+Coimbatore,2014,Attempt to commit C.H. Not Amounting To Murder,43,2
+Coimbatore,2014,Attempt To Commit Murder,1,0
+Coimbatore,2014,Murder,0,0
+Coimbatore,2014,Total Rape,5,0.5
+Delhi (City),2014,Attempt to rape,472,2.9
+Delhi (City),2014,Attempt to commit C.H. Not Amounting To Murder,675,4.1
+Delhi (City),2014,Attempt To Commit Murder,49,0.3
+Delhi (City),2014,Murder,886,5.4
+Delhi (City),2014,Total Rape,1813,23.9
+Dhanbad,2014,Attempt to rape,17,1.4
+Dhanbad,2014,Attempt to commit C.H. Not Amounting To Murder,10,0.8
+Dhanbad,2014,Attempt To Commit Murder,4,0.3
+Dhanbad,2014,Murder,0,0
+Dhanbad,2014,Total Rape,13,2.3
+Durg-Bhilainagar,2014,Attempt to rape,40,3.8
+Durg-Bhilainagar,2014,Attempt to commit C.H. Not Amounting To Murder,34,3.2
+Durg-Bhilainagar,2014,Attempt To Commit Murder,0,0
+Durg-Bhilainagar,2014,Murder,0,0
+Durg-Bhilainagar,2014,Total Rape,53,10.2
+Faridabad,2014,Attempt to rape,64,4.6
+Faridabad,2014,Attempt to commit C.H. Not Amounting To Murder,41,2.9
+Faridabad,2014,Attempt To Commit Murder,3,0.2
+Faridabad,2014,Murder,0,0
+Faridabad,2014,Total Rape,101,15.4
+Ghaziabad,2014,Attempt to rape,73,3.1
+Ghaziabad,2014,Attempt to commit C.H. Not Amounting To Murder,61,2.6
+Ghaziabad,2014,Attempt To Commit Murder,20,0.8
+Ghaziabad,2014,Murder,0,0
+Ghaziabad,2014,Total Rape,75,6.8
+Gwalior,2014,Attempt to rape,41,3.7
+Gwalior,2014,Attempt to commit C.H. Not Amounting To Murder,81,7.4
+Gwalior,2014,Attempt To Commit Murder,12,1.1
+Gwalior,2014,Murder,4,0.4
+Gwalior,2014,Total Rape,106,20.7
+Flyderabad,2014,Attempt to rape,118,1.5
+Flyderabad,2014,Attempt to commit C.H. Not Amounting To Murder,163,2.1
+Flyderabad,2014,Attempt To Commit Murder,6,0.1
+Flyderabad,2014,Murder,0,0
+Flyderabad,2014,Total Rape,126,3.3
+Indore,2014,Attempt to rape,88,4.1
+Indore,2014,Attempt to commit C.H. Not Amounting To Murder,183,8.4
+Indore,2014,Attempt To Commit Murder,0,0
+Indore,2014,Murder,3,0.1
+Indore,2014,Total Rape,185,17.8
+Jabalpur,2014,Attempt to rape,57,4.5
+Jabalpur,2014,Attempt to commit C.H. Not Amounting To Murder,93,7.3
+Jabalpur,2014,Attempt To Commit Murder,1,0.1
+Jabalpur,2014,Murder,1,0.1
+Jabalpur,2014,Total Rape,113,18.7
+Jaipur,2014,Attempt to rape,108,3.5
+Jaipur,2014,Attempt to commit C.H. Not Amounting To Murder,107,3.5
+Jaipur,2014,Attempt To Commit Murder,6,0.2
+Jaipur,2014,Murder,0,0
+Jaipur,2014,Total Rape,263,18.1
+Jamshedpur,2014,Attempt to rape,51,3.8
+Jamshedpur,2014,Attempt to commit C.H. Not Amounting To Murder,33,2.5
+Jamshedpur,2014,Attempt To Commit Murder,3,0.2
+Jamshedpur,2014,Murder,0,0
+Jamshedpur,2014,Total Rape,36,5.6
+Jodhpur,2014,Attempt to rape,41,3.6
+Jodhpur,2014,Attempt to commit C.H. Not Amounting To Murder,86,7.6
+Jodhpur,2014,Attempt To Commit Murder,5,0.4
+Jodhpur,2014,Murder,5,0.4
+Jodhpur,2014,Total Rape,68,12.6
+Kannur,2014,Attempt to rape,2,0.1
+Kannur,2014,Attempt to commit C.H. Not Amounting To Murder,8,0.5
+Kannur,2014,Attempt To Commit Murder,4,0.2
+Kannur,2014,Murder,19,1.2
+Kannur,2014,Total Rape,17,1.9
+Kanpur,2014,Attempt to rape,56,1.9
+Kanpur,2014,Attempt to commit C.H. Not Amounting To Murder,47,1.6
+Kanpur,2014,Attempt To Commit Murder,11,0.4
+Kanpur,2014,Murder,16,0.5
+Kanpur,2014,Total Rape,19,1.4
+Kochi,2014,Attempt to rape,13,0.6
+Kochi,2014,Attempt to commit C.H. Not Amounting To Murder,29,1.4
+Kochi,2014,Attempt To Commit Murder,2,0.1
+Kochi,2014,Murder,2,0.1
+Kochi,2014,Total Rape,64,6
+Kolkata,2014,Attempt to rape,74,0.5
+Kolkata,2014,Attempt to commit C.H. Not Amounting To Murder,101,0.7
+Kolkata,2014,Attempt To Commit Murder,26,0.2
+Kolkata,2014,Murder,0,0
+Kolkata,2014,Total Rape,36,0.5
+Kollam,2014,Attempt to rape,10,0.9
+Kollam,2014,Attempt to commit C.H. Not Amounting To Murder,34,3.1
+Kollam,2014,Attempt To Commit Murder,4,0.4
+Kollam,2014,Murder,54,4.9
+Kollam,2014,Total Rape,78,13.4
+Kota,2014,Attempt to rape,19,1.9
+Kota,2014,Attempt to commit C.H. Not Amounting To Murder,93,9.3
+Kota,2014,Attempt To Commit Murder,1,0.1
+Kota,2014,Murder,19,1.9
+Kota,2014,Total Rape,100,21.2
+Kozhikode,2014,Attempt to rape,8,0.4
+Kozhikode,2014,Attempt to commit C.H. Not Amounting To Murder,13,0.6
+Kozhikode,2014,Attempt To Commit Murder,2,0.1
+Kozhikode,2014,Murder,34,1.7
+Kozhikode,2014,Total Rape,35,3.3
+Lucknow,2014,Attempt to rape,107,3.7
+Lucknow,2014,Attempt to commit C.H. Not Amounting To Murder,67,2.3
+Lucknow,2014,Attempt To Commit Murder,17,0.6
+Lucknow,2014,Murder,17,0.6
+Lucknow,2014,Total Rape,52,3.8
+Ludhiana,2014,Attempt to rape,73,4.5
+Ludhiana,2014,Attempt to commit C.H. Not Amounting To Murder,68,4.2
+Ludhiana,2014,Attempt To Commit Murder,8,0.5
+Ludhiana,2014,Murder,0,0
+Ludhiana,2014,Total Rape,111,15
+Madurai,2014,Attempt to rape,33,2.3
+Madurai,2014,Attempt to commit C.H. Not Amounting To Murder,51,3.5
+Madurai,2014,Attempt To Commit Murder,1,0.1
+Madurai,2014,Murder,0,0
+Madurai,2014,Total Rape,6,0.8
+Malappuram,2014,Attempt to rape,3,0.2
+Malappuram,2014,Attempt to commit C.H. Not Amounting To Murder,11,0.6
+Malappuram,2014,Attempt To Commit Murder,2,0.1
+Malappuram,2014,Murder,1,0.1
+Malappuram,2014,Total Rape,10,1.1
+Meerut,2014,Attempt to rape,93,6.5
+Meerut,2014,Attempt to commit C.H. Not Amounting To Murder,129,9.1
+Meerut,2014,Attempt To Commit Murder,11,0.8
+Meerut,2014,Murder,12,0.8
+Meerut,2014,Total Rape,40,6
+Mumbai,2014,Attempt to rape,183,1
+Mumbai,2014,Attempt to commit C.H. Not Amounting To Murder,181,1
+Mumbai,2014,Attempt To Commit Murder,4,0
+Mumbai,2014,Murder,1,0
+Mumbai,2014,Total Rape,607,7.1
+Nagpur,2014,Attempt to rape,103,4.1
+Nagpur,2014,Attempt to commit C.H. Not Amounting To Murder,92,3.7
+Nagpur,2014,Attempt To Commit Murder,5,0.2
+Nagpur,2014,Murder,0,0
+Nagpur,2014,Total Rape,113,9.2
+Nasik,2014,Attempt to rape,26,1.7
+Nasik,2014,Attempt to commit C.H. Not Amounting To Murder,30,1.9
+Nasik,2014,Attempt To Commit Murder,0,0
+Nasik,2014,Murder,0,0
+Nasik,2014,Total Rape,28,3.8
+Patna,2014,Attempt to rape,205,10
+Patna,2014,Attempt to commit C.H. Not Amounting To Murder,16,0.8
+Patna,2014,Attempt To Commit Murder,2,0.1
+Patna,2014,Murder,0,0
+Patna,2014,Total Rape,54,5.6
+Pune,2014,Attempt to rape,138,2.7
+Pune,2014,Attempt to commit C.H. Not Amounting To Murder,181,3.6
+Pune,2014,Attempt To Commit Murder,9,0.2
+Pune,2014,Murder,0,0
+Pune,2014,Total Rape,189,7.9
+Raipur,2014,Attempt to rape,29,2.6
+Raipur,2014,Attempt to commit C.H. Not Amounting To Murder,71,6.3
+Raipur,2014,Attempt To Commit Murder,2,0.2
+Raipur,2014,Murder,0,0
+Raipur,2014,Total Rape,88,16.2
+Rajkot,2014,Attempt to rape,43,3.1
+Rajkot,2014,Attempt to commit C.H. Not Amounting To Murder,43,3.1
+Rajkot,2014,Attempt To Commit Murder,2,0.1
+Rajkot,2014,Murder,0,0
+Rajkot,2014,Total Rape,17,2.6
+Ranchi,2014,Attempt to rape,61,5.4
+Ranchi,2014,Attempt to commit C.H. Not Amounting To Murder,75,6.7
+Ranchi,2014,Attempt To Commit Murder,0,0
+Ranchi,2014,Murder,0,0
+Ranchi,2014,Total Rape,46,8.5
+Srinagar,2014,Attempt to rape,5,0.4
+Srinagar,2014,Attempt to commit C.H. Not Amounting To Murder,34,2.7
+Srinagar,2014,Attempt To Commit Murder,4,0.3
+Srinagar,2014,Murder,0,0
+Srinagar,2014,Total Rape,12,2
+Surat,2014,Attempt to rape,85,1.9
+Surat,2014,Attempt to commit C.H. Not Amounting To Murder,41,0.9
+Surat,2014,Attempt To Commit Murder,8,0.2
+Surat,2014,Murder,0,0
+Surat,2014,Total Rape,94,4.8
+Thiruvananthapuram,2014,Attempt to rape,13,0.8
+Thiruvananthapuram,2014,Attempt to commit C.H. Not Amounting To Murder,23,1.4
+Thiruvananthapuram,2014,Attempt To Commit Murder,2,0.1
+Thiruvananthapuram,2014,Murder,131,7.8
+Thiruvananthapuram,2014,Total Rape,56,6.4
+Thrissur,2014,Attempt to rape,17,0.9
+Thrissur,2014,Attempt to commit C.H. Not Amounting To Murder,17,0.9
+Thrissur,2014,Attempt To Commit Murder,2,0.1
+Thrissur,2014,Murder,31,1.7
+Thrissur,2014,Total Rape,38,3.9
+Tiruch irapalli,2014,Attempt to rape,24,2.3
+Tiruch irapalli,2014,Attempt to commit C.H. Not Amounting To Murder,9,0.9
+Tiruch irapalli,2014,Attempt To Commit Murder,0,0
+Tiruch irapalli,2014,Murder,0,0
+Tiruch irapalli,2014,Total Rape,3,0.6
+Vadodara,2014,Attempt to rape,23,1.3
+Vadodara,2014,Attempt to commit C.H. Not Amounting To Murder,37,2
+Vadodara,2014,Attempt To Commit Murder,0,0
+Vadodara,2014,Murder,3,0.2
+Vadodara,2014,Total Rape,23,2.6
+Varanasi,2014,Attempt to rape,24,1.7
+Varanasi,2014,Attempt to commit C.H. Not Amounting To Murder,32,2.2
+Varanasi,2014,Attempt To Commit Murder,12,0.8
+Varanasi,2014,Murder,0,0
+Varanasi,2014,Total Rape,27,4
+Vasai Virar,2014,Attempt to rape,36,2.9
+Vasai Virar,2014,Attempt to commit C.H. Not Amounting To Murder,17,1.4
+Vasai Virar,2014,Attempt To Commit Murder,6,0.5
+Vasai Virar,2014,Murder,0,0
+Vasai Virar,2014,Total Rape,60,10.5
+Vijayawada,2014,Attempt to rape,23,1.5
+Vijayawada,2014,Attempt to commit C.H. Not Amounting To Murder,45,3
+Vijayawada,2014,Attempt To Commit Murder,1,0.1
+Vijayawada,2014,Murder,1,0.1
+Vijayawada,2014,Total Rape,64,8.6
+Vishakhapatnam,2014,Attempt to rape,38,2.2
+Vishakhapatnam,2014,Attempt to commit C.H. Not Amounting To Murder,57,3.3
+Vishakhapatnam,2014,Attempt To Commit Murder,0,0
+Vishakhapatnam,2014,Murder,0,0
+Vishakhapatnam,2014,Total Rape,84,9.8
+Agra,2014,Kidnapping for Ransom (Section 364-A IPC),333,19.1
+Agra,2014,Kidnapping & Abduction (Total),197,11.3
+Agra,2014,Kidnapping & Abduction (Sec. 363 IPC),83,4.8
+Ahmedabad,2014,Kidnapping for Ransom (Section 364-A IPC),367,5.8
+Ahmedabad,2014,Kidnapping & Abduction (Total),102,1.6
+Ahmedabad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Allahabad,2014,Kidnapping for Ransom (Section 364-A IPC),103,8.5
+Allahabad,2014,Kidnapping & Abduction (Total),9,0.7
+Allahabad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Amritsar,2014,Kidnapping for Ransom (Section 364-A IPC),78,6.6
+Amritsar,2014,Kidnapping & Abduction (Total),3,0.3
+Amritsar,2014,Kidnapping & Abduction (Sec. 363 IPC),3,0.3
+Asansol,2014,Kidnapping for Ransom (Section 364-A IPC),104,8.4
+Asansol,2014,Kidnapping & Abduction (Total),24,1.9
+Asansol,2014,Kidnapping & Abduction (Sec. 363 IPC),3,0.2
+Aurangabad,2014,Kidnapping for Ransom (Section 364-A IPC),63,5.3
+Aurangabad,2014,Kidnapping & Abduction (Total),32,2.7
+Aurangabad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Bengaluru,2014,Kidnapping for Ransom (Section 364-A IPC),708,8.3
+Bengaluru,2014,Kidnapping & Abduction (Total),607,7.1
+Bengaluru,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0
+Bhopal,2014,Kidnapping for Ransom (Section 364-A IPC),290,15.4
+Bhopal,2014,Kidnapping & Abduction (Total),0,0
+Bhopal,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Chandigarh City,2014,Kidnapping for Ransom (Section 364-A IPC),167,16.3
+Chandigarh City,2014,Kidnapping & Abduction (Total),101,9.8
+Chandigarh City,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Chennai,2014,Kidnapping for Ransom (Section 364-A IPC),36,0.4
+Chennai,2014,Kidnapping & Abduction (Total),12,0.1
+Chennai,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0
+Coimbatore,2014,Kidnapping for Ransom (Section 364-A IPC),14,0.7
+Coimbatore,2014,Kidnapping & Abduction (Total),4,0.2
+Coimbatore,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Delhi (City),2014,Kidnapping for Ransom (Section 364-A IPC),6016,36.9
+Delhi (City),2014,Kidnapping & Abduction (Total),5596,34.3
+Delhi (City),2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Dhanbad,2014,Kidnapping for Ransom (Section 364-A IPC),39,3.3
+Dhanbad,2014,Kidnapping & Abduction (Total),0,0
+Dhanbad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Durg-Bhilainagar,2014,Kidnapping for Ransom (Section 364-A IPC),222,20.9
+Durg-Bhilainagar,2014,Kidnapping & Abduction (Total),115,10.8
+Durg-Bhilainagar,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Faridabad,2014,Kidnapping for Ransom (Section 364-A IPC),384,27.3
+Faridabad,2014,Kidnapping & Abduction (Total),3,0.2
+Faridabad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Ghaziabad,2014,Kidnapping for Ransom (Section 364-A IPC),276,11.7
+Ghaziabad,2014,Kidnapping & Abduction (Total),80,3.4
+Ghaziabad,2014,Kidnapping & Abduction (Sec. 363 IPC),54,2.3
+Gwalior,2014,Kidnapping for Ransom (Section 364-A IPC),189,17.2
+Gwalior,2014,Kidnapping & Abduction (Total),68,6.2
+Gwalior,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0.1
+Flyderabad,2014,Kidnapping for Ransom (Section 364-A IPC),374,4.8
+Flyderabad,2014,Kidnapping & Abduction (Total),235,3
+Flyderabad,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Indore,2014,Kidnapping for Ransom (Section 364-A IPC),439,20.3
+Indore,2014,Kidnapping & Abduction (Total),370,17.1
+Indore,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0
+Jabalpur,2014,Kidnapping for Ransom (Section 364-A IPC),359,28.3
+Jabalpur,2014,Kidnapping & Abduction (Total),107,8.4
+Jabalpur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Jaipur,2014,Kidnapping for Ransom (Section 364-A IPC),653,21.2
+Jaipur,2014,Kidnapping & Abduction (Total),238,7.7
+Jaipur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Jamshedpur,2014,Kidnapping for Ransom (Section 364-A IPC),64,4.8
+Jamshedpur,2014,Kidnapping & Abduction (Total),8,0.6
+Jamshedpur,2014,Kidnapping & Abduction (Sec. 363 IPC),2,0.1
+Jodhpur,2014,Kidnapping for Ransom (Section 364-A IPC),108,9.5
+Jodhpur,2014,Kidnapping & Abduction (Total),14,1.2
+Jodhpur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kannur,2014,Kidnapping for Ransom (Section 364-A IPC),5,0.3
+Kannur,2014,Kidnapping & Abduction (Total),0,0
+Kannur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kanpur,2014,Kidnapping for Ransom (Section 364-A IPC),233,8
+Kanpur,2014,Kidnapping & Abduction (Total),0,0
+Kanpur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kochi,2014,Kidnapping for Ransom (Section 364-A IPC),4,0.2
+Kochi,2014,Kidnapping & Abduction (Total),0,0
+Kochi,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kolkata,2014,Kidnapping for Ransom (Section 364-A IPC),341,2.4
+Kolkata,2014,Kidnapping & Abduction (Total),110,0.8
+Kolkata,2014,Kidnapping & Abduction (Sec. 363 IPC),2,0
+Kollam,2014,Kidnapping for Ransom (Section 364-A IPC),13,1.2
+Kollam,2014,Kidnapping & Abduction (Total),0,0
+Kollam,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kota,2014,Kidnapping for Ransom (Section 364-A IPC),187,18.7
+Kota,2014,Kidnapping & Abduction (Total),35,3.5
+Kota,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Kozhikode,2014,Kidnapping for Ransom (Section 364-A IPC),2,0.1
+Kozhikode,2014,Kidnapping & Abduction (Total),1,0
+Kozhikode,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Lucknow,2014,Kidnapping for Ransom (Section 364-A IPC),348,12
+Lucknow,2014,Kidnapping & Abduction (Total),279,9.6
+Lucknow,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Ludhiana,2014,Kidnapping for Ransom (Section 364-A IPC),246,15.2
+Ludhiana,2014,Kidnapping & Abduction (Total),0,0
+Ludhiana,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Madurai,2014,Kidnapping for Ransom (Section 364-A IPC),27,1.8
+Madurai,2014,Kidnapping & Abduction (Total),4,0.3
+Madurai,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Malappuram,2014,Kidnapping for Ransom (Section 364-A IPC),3,0.2
+Malappuram,2014,Kidnapping & Abduction (Total),0,0
+Malappuram,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Meerut,2014,Kidnapping for Ransom (Section 364-A IPC),233,16.4
+Meerut,2014,Kidnapping & Abduction (Total),0,0
+Meerut,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Mumbai,2014,Kidnapping for Ransom (Section 364-A IPC),541,2.9
+Mumbai,2014,Kidnapping & Abduction (Total),451,2.4
+Mumbai,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0
+Nagpur,2014,Kidnapping for Ransom (Section 364-A IPC),145,5.8
+Nagpur,2014,Kidnapping & Abduction (Total),97,3.9
+Nagpur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Nasik,2014,Kidnapping for Ransom (Section 364-A IPC),59,3.8
+Nasik,2014,Kidnapping & Abduction (Total),50,3.2
+Nasik,2014,Kidnapping & Abduction (Sec. 363 IPC),3,0.2
+Patna,2014,Kidnapping for Ransom (Section 364-A IPC),599,29.3
+Patna,2014,Kidnapping & Abduction (Total),0,0
+Patna,2014,Kidnapping & Abduction (Sec. 363 IPC),13,0.6
+Pune,2014,Kidnapping for Ransom (Section 364-A IPC),228,4.5
+Pune,2014,Kidnapping & Abduction (Total),106,2.1
+Pune,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Raipur,2014,Kidnapping for Ransom (Section 364-A IPC),171,15.2
+Raipur,2014,Kidnapping & Abduction (Total),145,12.9
+Raipur,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0.1
+Rajkot,2014,Kidnapping for Ransom (Section 364-A IPC),99,7.1
+Rajkot,2014,Kidnapping & Abduction (Total),27,1.9
+Rajkot,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Ranchi,2014,Kidnapping for Ransom (Section 364-A IPC),107,9.5
+Ranchi,2014,Kidnapping & Abduction (Total),0,0
+Ranchi,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Srinagar,2014,Kidnapping for Ransom (Section 364-A IPC),71,5.6
+Srinagar,2014,Kidnapping & Abduction (Total),37,2.9
+Srinagar,2014,Kidnapping & Abduction (Sec. 363 IPC),3,0.2
+Surat,2014,Kidnapping for Ransom (Section 364-A IPC),263,5.7
+Surat,2014,Kidnapping & Abduction (Total),123,2.7
+Surat,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Thiruvananthapuram,2014,Kidnapping for Ransom (Section 364-A IPC),14,0.8
+Thiruvananthapuram,2014,Kidnapping & Abduction (Total),10,0.6
+Thiruvananthapuram,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Thrissur,2014,Kidnapping for Ransom (Section 364-A IPC),8,0.4
+Thrissur,2014,Kidnapping & Abduction (Total),0,0
+Thrissur,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Tiruch irapalli,2014,Kidnapping for Ransom (Section 364-A IPC),7,0.7
+Tiruch irapalli,2014,Kidnapping & Abduction (Total),3,0.3
+Tiruch irapalli,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Vadodara,2014,Kidnapping for Ransom (Section 364-A IPC),93,5.1
+Vadodara,2014,Kidnapping & Abduction (Total),22,1.2
+Vadodara,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Varanasi,2014,Kidnapping for Ransom (Section 364-A IPC),97,6.8
+Varanasi,2014,Kidnapping & Abduction (Total),0,0
+Varanasi,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Vasai Virar,2014,Kidnapping for Ransom (Section 364-A IPC),85,7
+Vasai Virar,2014,Kidnapping & Abduction (Total),27,2.2
+Vasai Virar,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Vijayawada,2014,Kidnapping for Ransom (Section 364-A IPC),42,2.8
+Vijayawada,2014,Kidnapping & Abduction (Total),13,0.9
+Vijayawada,2014,Kidnapping & Abduction (Sec. 363 IPC),1,0.1
+Vishakhapatnam,2014,Kidnapping for Ransom (Section 364-A IPC),130,7.5
+Vishakhapatnam,2014,Kidnapping & Abduction (Total),130,7.5
+Vishakhapatnam,2014,Kidnapping & Abduction (Sec. 363 IPC),0,0
+Agra,2014,Total Dacoity,0,0
+Agra,2014,Others,7,0.4
+Ahmedabad,2014,Total Dacoity,56,0.9
+Ahmedabad,2014,Others,18,0.3
+Allahabad,2014,Total Dacoity,42,3.5
+Allahabad,2014,Others,2,0.2
+Amritsar,2014,Total Dacoity,25,2.1
+Amritsar,2014,Others,1,0.1
+Asansol,2014,Total Dacoity,51,4.1
+Asansol,2014,Others,5,0.4
+Aurangabad,2014,Total Dacoity,15,1.3
+Aurangabad,2014,Others,25,2.1
+Bengaluru,2014,Total Dacoity,60,0.7
+Bengaluru,2014,Others,51,0.6
+Bhopal,2014,Total Dacoity,66,3.5
+Bhopal,2014,Others,8,0.4
+Chandigarh City,2014,Total Dacoity,26,2.5
+Chandigarh City,2014,Others,4,0.4
+Chennai,2014,Total Dacoity,5,0.1
+Chennai,2014,Others,8,0.1
+Coimbatore,2014,Total Dacoity,7,0.3
+Coimbatore,2014,Others,5,0.2
+Delhi (City),2014,Total Dacoity,384,2.4
+Delhi (City),2014,Others,65,0.4
+Dhanbad,2014,Total Dacoity,6,0.5
+Dhanbad,2014,Others,7,0.6
+Durg-Bhilainagar,2014,Total Dacoity,83,7.8
+Durg-Bhilainagar,2014,Others,2,0.2
+Faridabad,2014,Total Dacoity,191,13.6
+Faridabad,2014,Others,7,0.5
+Ghaziabad,2014,Total Dacoity,0,0
+Ghaziabad,2014,Others,6,0.3
+Gwalior,2014,Total Dacoity,88,8
+Gwalior,2014,Others,5,0.5
+Flyderabad,2014,Total Dacoity,132,1.7
+Flyderabad,2014,Others,9,0.1
+Indore,2014,Total Dacoity,19,0.9
+Indore,2014,Others,1,0
+Jabalpur,2014,Total Dacoity,157,12.4
+Jabalpur,2014,Others,0,0
+Jaipur,2014,Total Dacoity,317,10.3
+Jaipur,2014,Others,3,0.1
+Jamshedpur,2014,Total Dacoity,3,0.2
+Jamshedpur,2014,Others,5,0.4
+Jodhpur,2014,Total Dacoity,60,5.3
+Jodhpur,2014,Others,0,0
+Kannur,2014,Total Dacoity,2,0.1
+Kannur,2014,Others,0,0
+Kanpur,2014,Total Dacoity,171,5.9
+Kanpur,2014,Others,3,0.1
+Kochi,2014,Total Dacoity,3,0.1
+Kochi,2014,Others,2,0.1
+Kolkata,2014,Total Dacoity,101,0.7
+Kolkata,2014,Others,3,0
+Kollam,2014,Total Dacoity,5,0.5
+Kollam,2014,Others,2,0.2
+Kota,2014,Total Dacoity,49,4.9
+Kota,2014,Others,1,0.1
+Kozhikode,2014,Total Dacoity,1,0
+Kozhikode,2014,Others,0,0
+Lucknow,2014,Total Dacoity,1,0
+Lucknow,2014,Others,1,0
+Ludhiana,2014,Total Dacoity,133,8.2
+Ludhiana,2014,Others,2,0.1
+Madurai,2014,Total Dacoity,10,0.7
+Madurai,2014,Others,4,0.3
+Malappuram,2014,Total Dacoity,2,0.1
+Malappuram,2014,Others,0,0
+Meerut,2014,Total Dacoity,82,5.8
+Meerut,2014,Others,8,0.6
+Mumbai,2014,Total Dacoity,71,0.4
+Mumbai,2014,Others,34,0.2
+Nagpur,2014,Total Dacoity,2,0.1
+Nagpur,2014,Others,16,0.6
+Nasik,2014,Total Dacoity,2,0.1
+Nasik,2014,Others,13,0.8
+Patna,2014,Total Dacoity,216,10.6
+Patna,2014,Others,28,1.4
+Pune,2014,Total Dacoity,75,1.5
+Pune,2014,Others,92,1.8
+Raipur,2014,Total Dacoity,4,0.4
+Raipur,2014,Others,2,0.2
+Rajkot,2014,Total Dacoity,16,1.2
+Rajkot,2014,Others,7,0.5
+Ranchi,2014,Total Dacoity,13,1.2
+Ranchi,2014,Others,5,0.4
+Srinagar,2014,Total Dacoity,31,2.4
+Srinagar,2014,Others,1,0.1
+Surat,2014,Total Dacoity,34,0.7
+Surat,2014,Others,14,0.3
+Thiruvananthapuram,2014,Total Dacoity,1,0.1
+Thiruvananthapuram,2014,Others,1,0.1
+Thrissur,2014,Total Dacoity,8,0.4
+Thrissur,2014,Others,5,0.3
+Tiruchirapalli,2014,Total Dacoity,4,0.4
+Tiruchirapalli,2014,Others,0,0
+Vadodara,2014,Total Dacoity,14,0.8
+Vadodara,2014,Others,10,0.6
+Varanasi,2014,Total Dacoity,10,0.7
+Varanasi,2014,Others,0,0
+Vasai Virar,2014,Total Dacoity,56,4.6
+Vasai Virar,2014,Others,12,1
+Vijayawada,2014,Total Dacoity,16,1.1
+Vijayawada,2014,Others,3,0.2
+Vishakhapatnam,2014,Total Dacoity,0,0
+Vishakhapatnam,2014,Others,4,0.2
+Agra,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),149,8.5
+Agra,2014,Criminal Trespass/Burglary Total,236,13.5
+Ahmedabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),261,4.1
+Ahmedabad,2014,Criminal Trespass/Burglary Total,BOO,7.9
+Allahabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),83,6.8
+Allahabad,2014,Criminal Trespass/Burglary Total,190,15.6
+Amritsar,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),13,1.1
+Amritsar,2014,Criminal Trespass/Burglary Total,127,10.7
+Asansol,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),12,1
+Asansol,2014,Criminal Trespass/Burglary Total,10,0.8
+Aurangabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),204,17.2
+Aurangabad,2014,Criminal Trespass/Burglary Total,267,22.5
+Bengaluru,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),1067,12.6
+Bengaluru,2014,Criminal Trespass/Burglary Total,1542,18.1
+Bhopal,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),99,5.3
+Bhopal,2014,Criminal Trespass/Burglary Total,841,44.7
+Chandigarh City,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),61,5.9
+Chandigarh City,2014,Criminal Trespass/Burglary Total,127,12.4
+Chennai,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),72,0.8
+Chennai,2014,Criminal Trespass/Burglary Total,368,4.2
+Coimbatore,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),123,5.7
+Coimbatore,2014,Criminal Trespass/Burglary Total,166,7.7
+Delhi (City),2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),5847,35.8
+Delhi (City),2014,Criminal Trespass/Burglary Total,8839,54.2
+Dhanbad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),8,0.7
+Dhanbad,2014,Criminal Trespass/Burglary Total,68,5.7
+Durg-Bhilainagar,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),52,4.9
+Durg-Bhilainagar,2014,Criminal Trespass/Burglary Total,318,29.9
+Faridabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),40,2.8
+Faridabad,2014,Criminal Trespass/Burglary Total,412,29.3
+Ghaziabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),72,3.1
+Ghaziabad,2014,Criminal Trespass/Burglary Total,122,5.2
+Gwalior,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),74,6.7
+Gwalior,2014,Criminal Trespass/Burglary Total,536,48.6
+Flyderabad,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),58,0.7
+Flyderabad,2014,Criminal Trespass/Burglary Total,754,9.7
+Indore,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),283,13.1
+Indore,2014,Criminal Trespass/Burglary Total,1388,64.1
+Jabalpur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),107,8.4
+Jabalpur,2014,Criminal Trespass/Burglary Total,374,29.5
+Jaipur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),356,11.6
+Jaipur,2014,Criminal Trespass/Burglary Total,1229,40
+Jamshedpur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),30,2.2
+Jamshedpur,2014,Criminal Trespass/Burglary Total,IBB,11.6
+Jodhpur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),120,10.5
+Jodhpur,2014,Criminal Trespass/Burglary Total,297,26.1
+Kannur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),42,2.6
+Kannur,2014,Criminal Trespass/Burglary Total,67,4.1
+Kanpur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),96,3.3
+Kanpur,2014,Criminal Trespass/Burglary Total,162,5.5
+Kochi,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),17,0.8
+Kochi,2014,Criminal Trespass/Burglary Total,157,7.4
+Kolkata,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),33,0.2
+Kolkata,2014,Criminal Trespass/Burglary Total,62,0.4
+Kollam,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),63,5.7
+Kollam,2014,Criminal Trespass/Burglary Total,95,8.6
+Kota,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),27,2.7
+Kota,2014,Criminal Trespass/Burglary Total,135,13.5
+Kozhikode,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),52,2.6
+Kozhikode,2014,Criminal Trespass/Burglary Total,183,9
+Lucknow,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),72,2.5
+Lucknow,2014,Criminal Trespass/Burglary Total,568,19.6
+Ludhiana,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),23,1.4
+Ludhiana,2014,Criminal Trespass/Burglary Total,259,16
+Madurai,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),118,8.1
+Madurai,2014,Criminal Trespass/Burglary Total,123,8.4
+Malappuram,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),13,0.8
+Malappuram,2014,Criminal Trespass/Burglary Total,46,2.7
+Meerut,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),166,11.6
+Meerut,2014,Criminal Trespass/Burglary Total,192,13.5
+Mumbai,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),2094,11.4
+Mumbai,2014,Criminal Trespass/Burglary Total,3055,16.6
+Nagpur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),BOB,20.2
+Nagpur,2014,Criminal Trespass/Burglary Total,1074,43
+Nasik,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),124,7.9
+Nasik,2014,Criminal Trespass/Burglary Total,299,19.1
+Patna,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),149,7.3
+Patna,2014,Criminal Trespass/Burglary Total,568,27.7
+Pune,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),873,17.3
+Pune,2014,Criminal Trespass/Burglary Total,1362,27
+Raipur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),61,5.4
+Raipur,2014,Criminal Trespass/Burglary Total,367,32.7
+Rajkot,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),91,6.5
+Rajkot,2014,Criminal Trespass/Burglary Total,176,12.7
+Ranchi,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),61,5.4
+Ranchi,2014,Criminal Trespass/Burglary Total,204,18.1
+Srinagar,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),36,2.8
+Srinagar,2014,Criminal Trespass/Burglary Total,238,18.7
+Surat,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),30,0.7
+Surat,2014,Criminal Trespass/Burglary Total,257,5.6
+Thiruvananthapuram,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),59,3.5
+Thiruvananthapuram,2014,Criminal Trespass/Burglary Total,147,8.7
+Thrissur,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),34,1.8
+Thrissur,2014,Criminal Trespass/Burglary Total,83,4.5
+Tiruch irapalli,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),24,2.3
+Tiruch irapalli,2014,Criminal Trespass/Burglary Total,41,4
+Vadodara,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),117,6.4
+Vadodara,2014,Criminal Trespass/Burglary Total,502,27.6
+Varanasi,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),32,2.2
+Varanasi,2014,Criminal Trespass/Burglary Total,81,5.6
+Vasai Virar,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),178,14.6
+Vasai Virar,2014,Criminal Trespass/Burglary Total,468,38.3
+Vijayawada,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),48,3.2
+Vijayawada,2014,Criminal Trespass/Burglary Total,345,23.1
+Vishakhapatnam,2014,Criminal Trespass/Burglary (Section 457 & 458 IPC),46,2.7
+Vishakhapatnam,2014,Criminal Trespass/Burglary Total,392,22.7
+Agra,2014,Auto Theft,3047,174.5
+Agra,2014,Other Theft,2466,141.2
+Ahmedabad,2014,Auto Theft,2589,40.8
+Ahmedabad,2014,Other Theft,1693,26.7
+Allahabad,2014,Auto Theft,1647,135.3
+Allahabad,2014,Other Theft,1325,108.9
+Amritsar,2014,Auto Theft,324,27.4
+Amritsar,2014,Other Theft,93,7.9
+Asansol,2014,Auto Theft,607,48.8
+Asansol,2014,Other Theft,278,22.4
+Aurangabad,2014,Auto Theft,1419,119.3
+Aurangabad,2014,Other Theft,706,59.4
+Bengaluru,2014,Auto Theft,11455,134.8
+Bengaluru,2014,Other Theft,5075,59.7
+Bhopal,2014,Auto Theft,2706,143.7
+Bhopal,2014,Other Theft,1765,93.7
+Chandigarh City,2014,Auto Theft,1217,118.6
+Chandigarh City,2014,Other Theft,791,77.1
+Chennai,2014,Auto Theft,1520,17.5
+Chennai,2014,Other Theft,252,2.9
+Coimbatore,2014,Auto Theft,353,16.4
+Coimbatore,2014,Other Theft,113,5.3
+Delhi (City),2014,Auto Theft,71937,440.9
+Delhi (City),2014,Other Theft,21321,130.7
+Dhanbad,2014,Auto Theft,341,28.5
+Dhanbad,2014,Other Theft,188,15.7
+Durg-Bhilainagar,2014,Auto Theft,751,70.6
+Durg-Bhilainagar,2014,Other Theft,365,34.3
+Faridabad,2014,Auto Theft,2079,148
+Faridabad,2014,Other Theft,1736,123.6
+Ghaziabad,2014,Auto Theft,2539,107.6
+Ghaziabad,2014,Other Theft,1998,84.7
+Gwalior,2014,Auto Theft,1622,147.2
+Gwalior,2014,Other Theft,1226,111.3
+Flyderabad,2014,Auto Theft,4266,55.1
+Flyderabad,2014,Other Theft,1396,18
+Indore,2014,Auto Theft,5914,272.9
+Indore,2014,Other Theft,4410,203.5
+Jabalpur,2014,Auto Theft,713,56.2
+Jabalpur,2014,Other Theft,496,39.1
+Jaipur,2014,Auto Theft,7071,230.1
+Jaipur,2014,Other Theft,5113,166.4
+Jamshedpur,2014,Auto Theft,808,60.4
+Jamshedpur,2014,Other Theft,412,30.8
+Jodhpur,2014,Auto Theft,993,87.3
+Jodhpur,2014,Other Theft,653,57.4
+Kannur,2014,Auto Theft,47,2.9
+Kannur,2014,Other Theft,23,1.4
+Kanpur,2014,Auto Theft,1101,37.7
+Kanpur,2014,Other Theft,854,29.2
+Kochi,2014,Auto Theft,331,15.6
+Kochi,2014,Other Theft,108,5.1
+Kolkata,2014,Auto Theft,4579,32.4
+Kolkata,2014,Other Theft,740,5.2
+Kollam,2014,Auto Theft,143,12.9
+Kollam,2014,Other Theft,65,5.9
+Kota,2014,Auto Theft,890,88.9
+Kota,2014,Other Theft,615,61.4
+Kozhikode,2014,Auto Theft,282,13.9
+Kozhikode,2014,Other Theft,165,8.1
+Lucknow,2014,Auto Theft,2937,101.2
+Lucknow,2014,Other Theft,2037,70.2
+Ludhiana,2014,Auto Theft,603,37.4
+Ludhiana,2014,Other Theft,209,12.9
+Madurai,2014,Auto Theft,576,39.4
+Madurai,2014,Other Theft,389,26.6
+Malappuram,2014,Auto Theft,72,4.2
+Malappuram,2014,Other Theft,31,1.8
+Meerut,2014,Auto Theft,2715,190.5
+Meerut,2014,Other Theft,2150,150.9
+Mumbai,2014,Auto Theft,10101,54.9
+Mumbai,2014,Other Theft,3598,19.5
+Nagpur,2014,Auto Theft,2962,118.6
+Nagpur,2014,Other Theft,1604,64.2
+Nasik,2014,Auto Theft,1053,67.4
+Nasik,2014,Other Theft,685,43.8
+Patna,2014,Auto Theft,3653,178.5
+Patna,2014,Other Theft,2058,100.5
+Pune,2014,Auto Theft,4867,96.4
+Pune,2014,Other Theft,2782,55.1
+Raipur,2014,Auto Theft,1340,119.3
+Raipur,2014,Other Theft,761,67.8
+Rajkot,2014,Auto Theft,835,60
+Rajkot,2014,Other Theft,671,48.2
+Ranchi,2014,Auto Theft,1834,162.7
+Ranchi,2014,Other Theft,1149,102
+Srinagar,2014,Auto Theft,375,29.5
+Srinagar,2014,Other Theft,240,18.9
+Surat,2014,Auto Theft,1315,28.7
+Surat,2014,Other Theft,886,19.3
+Thiruvananthapuram,2014,Auto Theft,325,19.3
+Thiruvananthapuram,2014,Other Theft,88,5.2
+Thrissur,2014,Auto Theft,165,8.9
+Thrissur,2014,Other Theft,57,3.1
+Tiruch irapalli,2014,Auto Theft,307,30
+Tiruch irapalli,2014,Other Theft,66,6.5
+Vadodara,2014,Auto Theft,1242,68.4
+Vadodara,2014,Other Theft,820,45.1
+Varanasi,2014,Auto Theft,596,41.5
+Varanasi,2014,Other Theft,420,29.3
+Vasai Virar,2014,Auto Theft,790,64.7
+Vasai Virar,2014,Other Theft,375,30.7
+Vijayawada,2014,Auto Theft,2016,135.2
+Vijayawada,2014,Other Theft,685,45.9
+Vishakhapatnam,2014,Auto Theft,1358,78.5
+Vishakhapatnam,2014,Other Theft,401,23.2
+Agra,2014,Political,242,13.9
+Agra,2014,Riots (Total),0,0
+Ahmedabad,2014,Political,87,1.4
+Ahmedabad,2014,Riots (Total),18,0.3
+Allahabad,2014,Political,23,1.9
+Allahabad,2014,Riots (Total),0,0
+Amritsar,2014,Political,0,0
+Amritsar,2014,Riots (Total),0,0
+Asansol,2014,Political,181,14.6
+Asansol,2014,Riots (Total),0,0
+Aurangabad,2014,Political,134,11.3
+Aurangabad,2014,Riots (Total),0,0
+Bengaluru,2014,Political,388,4.6
+Bengaluru,2014,Riots (Total),0,0
+Bhopal,2014,Political,41,2.2
+Bhopal,2014,Riots (Total),0,0
+Chandigarh City,2014,Political,31,3
+Chandigarh City,2014,Riots (Total),0,0
+Chennai,2014,Political,118,1.4
+Chennai,2014,Riots (Total),0,0
+Coimbatore,2014,Political,25,1.2
+Coimbatore,2014,Riots (Total),0,0
+Delhi (City),2014,Political,144,0.9
+Delhi (City),2014,Riots (Total),1,0
+Dhanbad,2014,Political,57,4.8
+Dhanbad,2014,Riots (Total),0,0
+Durg-Bhilainagar,2014,Political,34,3.2
+Durg-Bhilainagar,2014,Riots (Total),0,0
+Faridabad,2014,Political,207,14.7
+Faridabad,2014,Riots (Total),207,14.7
+Ghaziabad,2014,Political,37,1.6
+Ghaziabad,2014,Riots (Total),0,0
+Gwalior,2014,Political,68,6.2
+Gwalior,2014,Riots (Total),0,0
+Flyderabad,2014,Political,57,0.7
+Flyderabad,2014,Riots (Total),4,0.1
+Indore,2014,Political,50,2.3
+Indore,2014,Riots (Total),2,0.1
+Jabalpur,2014,Political,43,3.4
+Jabalpur,2014,Riots (Total),0,0
+Jaipur,2014,Political,75,2.4
+Jaipur,2014,Riots (Total),1,0
+Jamshedpur,2014,Political,82,6.1
+Jamshedpur,2014,Riots (Total),0,0
+Jodhpur,2014,Political,3,0.3
+Jodhpur,2014,Riots (Total),0,0
+Kannur,2014,Political,227,13.8
+Kannur,2014,Riots (Total),0,0
+Kanpur,2014,Political,97,3.3
+Kanpur,2014,Riots (Total),0,0
+Kochi,2014,Political,57,2.7
+Kochi,2014,Riots (Total),0,0
+Kolkata,2014,Political,315,2.2
+Kolkata,2014,Riots (Total),0,0
+Kollam,2014,Political,301,27.1
+Kollam,2014,Riots (Total),0,0
+Kota,2014,Political,0,0
+Kota,2014,Riots (Total),0,0
+Kozhikode,2014,Political,220,10.8
+Kozhikode,2014,Riots (Total),0,0
+Lucknow,2014,Political,73,2.5
+Lucknow,2014,Riots (Total),8,0.3
+Ludhiana,2014,Political,0,0
+Ludhiana,2014,Riots (Total),0,0
+Madurai,2014,Political,23,1.6
+Madurai,2014,Riots (Total),0,0
+Malappuram,2014,Political,154,9.1
+Malappuram,2014,Riots (Total),0,0
+Meerut,2014,Political,161,11.3
+Meerut,2014,Riots (Total),8,0.6
+Mumbai,2014,Political,409,2.2
+Mumbai,2014,Riots (Total),0,0
+Nagpur,2014,Political,147,5.9
+Nagpur,2014,Riots (Total),0,0
+Nasik,2014,Political,64,4.1
+Nasik,2014,Riots (Total),0,0
+Patna,2014,Political,470,23
+Patna,2014,Riots (Total),0,0
+Pune,2014,Political,259,5.1
+Pune,2014,Riots (Total),8,0.2
+Raipur,2014,Political,45,4
+Raipur,2014,Riots (Total),0,0
+Rajkot,2014,Political,61,4.4
+Rajkot,2014,Riots (Total),0,0
+Ranchi,2014,Political,51,4.5
+Ranchi,2014,Riots (Total),0,0
+Srinagar,2014,Political,130,10.2
+Srinagar,2014,Riots (Total),0,0
+Surat,2014,Political,40,0.9
+Surat,2014,Riots (Total),1,0
+Thiruvananthapuram,2014,Political,226,13.4
+Thiruvananthapuram,2014,Riots (Total),0,0
+Thrissur,2014,Political,98,5.3
+Thrissur,2014,Riots (Total),0,0
+Tiruch irapalli,2014,Political,10,1
+Tiruch irapalli,2014,Riots (Total),0,0
+Vadodara,2014,Political,60,3.3
+Vadodara,2014,Riots (Total),19,1
+Varanasi,2014,Political,34,2.4
+Varanasi,2014,Riots (Total),0,0
+Vasai Virar,2014,Political,99,8.1
+Vasai Virar,2014,Riots (Total),0,0
+Vijayawada,2014,Political,2,0.1
+Vijayawada,2014,Riots (Total),0,0
+Vishakhapatnam,2014,Political,3,0.2
+Vishakhapatnam,2014,Riots (Total),0,0
+Agra,2014,SCs/STs VS Non-SCs/STs,0,0
+Agra,2014,Other Caste conflict,0,0
+Ahmedabad,2014,SCs/STs VS Non-SCs/STs,6,0.1
+Ahmedabad,2014,Other Caste conflict,1,0
+Allahabad,2014,SCs/STs VS Non-SCs/STs,0,0
+Allahabad,2014,Other Caste conflict,0,0
+Amritsar,2014,SCs/STs VS Non-SCs/STs,0,0
+Amritsar,2014,Other Caste conflict,0,0
+Asansol,2014,SCs/STs VS Non-SCs/STs,0,0
+Asansol,2014,Other Caste conflict,0,0
+Aurangabad,2014,SCs/STs VS Non-SCs/STs,0,0
+Aurangabad,2014,Other Caste conflict,0,0
+Bengaluru,2014,SCs/STs VS Non-SCs/STs,9,0.1
+Bengaluru,2014,Other Caste conflict,0,0
+Bhopal,2014,SCs/STs VS Non-SCs/STs,0,0
+Bhopal,2014,Other Caste conflict,0,0
+Chandigarh City,2014,SCs/STs VS Non-SCs/STs,0,0
+Chandigarh City,2014,Other Caste conflict,0,0
+Chennai,2014,SCs/STs VS Non-SCs/STs,0,0
+Chennai,2014,Other Caste conflict,0,0
+Coimbatore,2014,SCs/STs VS Non-SCs/STs,0,0
+Coimbatore,2014,Other Caste conflict,0,0
+Delhi (City),2014,SCs/STs VS Non-SCs/STs,16,0.1
+Delhi (City),2014,Other Caste conflict,0,0
+Dhanbad,2014,SCs/STs VS Non-SCs/STs,0,0
+Dhanbad,2014,Other Caste conflict,0,0
+Durg-Bhilainagar,2014,SCs/STs VS Non-SCs/STs,0,0
+Durg-Bhilainagar,2014,Other Caste conflict,0,0
+Faridabad,2014,SCs/STs VS Non-SCs/STs,0,0
+Faridabad,2014,Other Caste conflict,0,0
+Ghaziabad,2014,SCs/STs VS Non-SCs/STs,0,0
+Ghaziabad,2014,Other Caste conflict,0,0
+Gwalior,2014,SCs/STs VS Non-SCs/STs,0,0
+Gwalior,2014,Other Caste conflict,0,0
+Flyderabad,2014,SCs/STs VS Non-SCs/STs,11,0.1
+Flyderabad,2014,Other Caste conflict,2,0
+Indore,2014,SCs/STs VS Non-SCs/STs,0,0
+Indore,2014,Other Caste conflict,0,0
+Jabalpur,2014,SCs/STs VS Non-SCs/STs,0,0
+Jabalpur,2014,Other Caste conflict,0,0
+Jaipur,2014,SCs/STs VS Non-SCs/STs,0,0
+Jaipur,2014,Other Caste conflict,0,0
+Jamshedpur,2014,SCs/STs VS Non-SCs/STs,0,0
+Jamshedpur,2014,Other Caste conflict,0,0
+Jodhpur,2014,SCs/STs VS Non-SCs/STs,0,0
+Jodhpur,2014,Other Caste conflict,0,0
+Kannur,2014,SCs/STs VS Non-SCs/STs,0,0
+Kannur,2014,Other Caste conflict,0,0
+Kanpur,2014,SCs/STs VS Non-SCs/STs,0,0
+Kanpur,2014,Other Caste conflict,0,0
+Kochi,2014,SCs/STs VS Non-SCs/STs,0,0
+Kochi,2014,Other Caste conflict,0,0
+Kolkata,2014,SCs/STs VS Non-SCs/STs,0,0
+Kolkata,2014,Other Caste conflict,0,0
+Kollam,2014,SCs/STs VS Non-SCs/STs,0,0
+Kollam,2014,Other Caste conflict,0,0
+Kota,2014,SCs/STs VS Non-SCs/STs,0,0
+Kota,2014,Other Caste conflict,0,0
+Kozhikode,2014,SCs/STs VS Non-SCs/STs,0,0
+Kozhikode,2014,Other Caste conflict,0,0
+Lucknow,2014,SCs/STs VS Non-SCs/STs,0,0
+Lucknow,2014,Other Caste conflict,0,0
+Ludhiana,2014,SCs/STs VS Non-SCs/STs,0,0
+Ludhiana,2014,Other Caste conflict,0,0
+Madurai,2014,SCs/STs VS Non-SCs/STs,0,0
+Madurai,2014,Other Caste conflict,0,0
+Malappuram,2014,SCs/STs VS Non-SCs/STs,0,0
+Malappuram,2014,Other Caste conflict,0,0
+Meerut,2014,SCs/STs VS Non-SCs/STs,0,0
+Meerut,2014,Other Caste conflict,0,0
+Mumbai,2014,SCs/STs VS Non-SCs/STs,2,0
+Mumbai,2014,Other Caste conflict,2,0
+Nagpur,2014,SCs/STs VS Non-SCs/STs,0,0
+Nagpur,2014,Other Caste conflict,0,0
+Nasik,2014,SCs/STs VS Non-SCs/STs,0,0
+Nasik,2014,Other Caste conflict,0,0
+Patna,2014,SCs/STs VS Non-SCs/STs,0,0
+Patna,2014,Other Caste conflict,0,0
+Pune,2014,SCs/STs VS Non-SCs/STs,0,0
+Pune,2014,Other Caste conflict,0,0
+Raipur,2014,SCs/STs VS Non-SCs/STs,0,0
+Raipur,2014,Other Caste conflict,0,0
+Rajkot,2014,SCs/STs VS Non-SCs/STs,0,0
+Rajkot,2014,Other Caste conflict,0,0
+Ranchi,2014,SCs/STs VS Non-SCs/STs,0,0
+Ranchi,2014,Other Caste conflict,0,0
+Srinagar,2014,SCs/STs VS Non-SCs/STs,0,0
+Srinagar,2014,Other Caste conflict,0,0
+Surat,2014,SCs/STs VS Non-SCs/STs,7,0.2
+Surat,2014,Other Caste conflict,0,0
+Thiruvananthapuram,2014,SCs/STs VS Non-SCs/STs,0,0
+Thiruvananthapuram,2014,Other Caste conflict,0,0
+Thrissur,2014,SCs/STs VS Non-SCs/STs,0,0
+Thrissur,2014,Other Caste conflict,0,0
+Tiruch irapalli,2014,SCs/STs VS Non-SCs/STs,0,0
+Tiruch irapalli,2014,Other Caste conflict,0,0
+Vadodara,2014,SCs/STs VS Non-SCs/STs,0,0
+Vadodara,2014,Other Caste conflict,0,0
+Varanasi,2014,SCs/STs VS Non-SCs/STs,0,0
+Varanasi,2014,Other Caste conflict,0,0
+Vasai Virar,2014,SCs/STs VS Non-SCs/STs,0,0
+Vasai Virar,2014,Other Caste conflict,0,0
+Vijayawada,2014,SCs/STs VS Non-SCs/STs,0,0
+Vijayawada,2014,Other Caste conflict,0,0
+Vishakhapatnam,2014,SCs/STs VS Non-SCs/STs,0,0
+Vishakhapatnam,2014,Other Caste conflict,0,0
+Agra,2014,Sectarian,0,0
+Agra,2014,Agrarian,0,0
+Ahmedabad,2014,Sectarian,0,0
+Ahmedabad,2014,Agrarian,0,0
+Allahabad,2014,Sectarian,0,0
+Allahabad,2014,Agrarian,2,0.2
+Amritsar,2014,Sectarian,0,0
+Amritsar,2014,Agrarian,0,0
+Asansol,2014,Sectarian,0,0
+Asansol,2014,Agrarian,0,0
+Aurangabad,2014,Sectarian,0,0
+Aurangabad,2014,Agrarian,0,0
+Bengaluru,2014,Sectarian,0,0
+Bengaluru,2014,Agrarian,3,0
+Bhopal,2014,Sectarian,0,0
+Bhopal,2014,Agrarian,0,0
+Chandigarh City,2014,Sectarian,0,0
+Chandigarh City,2014,Agrarian,6,0.6
+Chennai,2014,Sectarian,0,0
+Chennai,2014,Agrarian,0,0
+Coimbatore,2014,Sectarian,0,0
+Coimbatore,2014,Agrarian,0,0
+Delhi (City),2014,Sectarian,0,0
+Delhi (City),2014,Agrarian,3,0
+Dhanbad,2014,Sectarian,0,0
+Dhanbad,2014,Agrarian,0,0
+Durg-Bhilainagar,2014,Sectarian,0,0
+Durg-Bhilainagar,2014,Agrarian,0,0
+Faridabad,2014,Sectarian,0,0
+Faridabad,2014,Agrarian,0,0
+Ghaziabad,2014,Sectarian,0,0
+Ghaziabad,2014,Agrarian,0,0
+Gwalior,2014,Sectarian,0,0
+Gwalior,2014,Agrarian,0,0
+Flyderabad,2014,Sectarian,0,0
+Flyderabad,2014,Agrarian,13,0.2
+Indore,2014,Sectarian,0,0
+Indore,2014,Agrarian,0,0
+Jabalpur,2014,Sectarian,0,0
+Jabalpur,2014,Agrarian,0,0
+Jaipur,2014,Sectarian,6,0.2
+Jaipur,2014,Agrarian,2,0.1
+Jamshedpur,2014,Sectarian,0,0
+Jamshedpur,2014,Agrarian,0,0
+Jodhpur,2014,Sectarian,0,0
+Jodhpur,2014,Agrarian,0,0
+Kannur,2014,Sectarian,0,0
+Kannur,2014,Agrarian,7,0.4
+Kanpur,2014,Sectarian,0,0
+Kanpur,2014,Agrarian,0,0
+Kochi,2014,Sectarian,0,0
+Kochi,2014,Agrarian,0,0
+Kolkata,2014,Sectarian,0,0
+Kolkata,2014,Agrarian,0,0
+Kollam,2014,Sectarian,0,0
+Kollam,2014,Agrarian,2,0.2
+Kota,2014,Sectarian,0,0
+Kota,2014,Agrarian,0,0
+Kozhikode,2014,Sectarian,0,0
+Kozhikode,2014,Agrarian,14,0.7
+Lucknow,2014,Sectarian,0,0
+Lucknow,2014,Agrarian,0,0
+Ludhiana,2014,Sectarian,0,0
+Ludhiana,2014,Agrarian,0,0
+Madurai,2014,Sectarian,0,0
+Madurai,2014,Agrarian,0,0
+Malappuram,2014,Sectarian,0,0
+Malappuram,2014,Agrarian,0,0
+Meerut,2014,Sectarian,0,0
+Meerut,2014,Agrarian,0,0
+Mumbai,2014,Sectarian,0,0
+Mumbai,2014,Agrarian,0,0
+Nagpur,2014,Sectarian,0,0
+Nagpur,2014,Agrarian,0,0
+Nasik,2014,Sectarian,0,0
+Nasik,2014,Agrarian,0,0
+Patna,2014,Sectarian,0,0
+Patna,2014,Agrarian,0,0
+Pune,2014,Sectarian,0,0
+Pune,2014,Agrarian,0,0
+Raipur,2014,Sectarian,0,0
+Raipur,2014,Agrarian,0,0
+Rajkot,2014,Sectarian,0,0
+Rajkot,2014,Agrarian,0,0
+Ranchi,2014,Sectarian,0,0
+Ranchi,2014,Agrarian,0,0
+Srinagar,2014,Sectarian,0,0
+Srinagar,2014,Agrarian,0,0
+Surat,2014,Sectarian,2,0
+Surat,2014,Agrarian,0,0
+Thiruvananthapuram,2014,Sectarian,0,0
+Thiruvananthapuram,2014,Agrarian,0,0
+Thrissur,2014,Sectarian,0,0
+Thrissur,2014,Agrarian,21,1.1
+Tiruch irapalli,2014,Sectarian,0,0
+Tiruch irapalli,2014,Agrarian,0,0
+Vadodara,2014,Sectarian,0,0
+Vadodara,2014,Agrarian,0,0
+Varanasi,2014,Sectarian,0,0
+Varanasi,2014,Agrarian,0,0
+Vasai Virar,2014,Sectarian,2,0.2
+Vasai Virar,2014,Agrarian,0,0
+Vijayawada,2014,Sectarian,0,0
+Vijayawada,2014,Agrarian,0,0
+Vishakhapatnam,2014,Sectarian,0,0
+Vishakhapatnam,2014,Agrarian,0,0
+Agra,2014,Cheating,242,13.9
+Agra,2014,Riots Others (excluding previous columns),73,4.2
+Ahmedabad,2014,Cheating,59,0.9
+Ahmedabad,2014,Riots Others (excluding previous columns),169,2.7
+Allahabad,2014,Cheating,21,1.7
+Allahabad,2014,Riots Others (excluding previous columns),59,4.8
+Amritsar,2014,Cheating,0,0
+Amritsar,2014,Riots Others (excluding previous columns),24,2
+Asansol,2014,Cheating,181,14.6
+Asansol,2014,Riots Others (excluding previous columns),98,7.9
+Aurangabad,2014,Cheating,134,11.3
+Aurangabad,2014,Riots Others (excluding previous columns),IB,1.3
+Bengaluru,2014,Cheating,373,4.4
+Bengaluru,2014,Riots Others (excluding previous columns),107,1.3
+Bhopal,2014,Cheating,41,2.2
+Bhopal,2014,Riots Others (excluding previous columns),20,1.1
+Chandigarh City,2014,Cheating,25,2.4
+Chandigarh City,2014,Riots Others (excluding previous columns),22,2.1
+Chennai,2014,Cheating,118,1.4
+Chennai,2014,Riots Others (excluding previous columns),6,0.1
+Coimbatore,2014,Cheating,25,1.2
+Coimbatore,2014,Riots Others (excluding previous columns),8,0.4
+Delhi (City),2014,Cheating,119,0.7
+Delhi (City),2014,Riots Others (excluding previous columns),593,3.6
+Dhanbad,2014,Cheating,57,4.8
+Dhanbad,2014,Riots Others (excluding previous columns),68,5.7
+Durg-Bhilainagar,2014,Cheating,34,3.2
+Durg-Bhilainagar,2014,Riots Others (excluding previous columns),13,1.2
+Faridabad,2014,Cheating,0,0
+Faridabad,2014,Riots Others (excluding previous columns),200,14.2
+Ghaziabad,2014,Cheating,37,1.6
+Ghaziabad,2014,Riots Others (excluding previous columns),125,5.3
+Gwalior,2014,Cheating,68,6.2
+Gwalior,2014,Riots Others (excluding previous columns),51,4.6
+Flyderabad,2014,Cheating,29,0.4
+Flyderabad,2014,Riots Others (excluding previous columns),97,1.3
+Indore,2014,Cheating,47,2.2
+Indore,2014,Riots Others (excluding previous columns),30,1.4
+Jabalpur,2014,Cheating,37,2.9
+Jabalpur,2014,Riots Others (excluding previous columns),7,0.6
+Jaipur,2014,Cheating,66,2.1
+Jaipur,2014,Riots Others (excluding previous columns),320,10.4
+Jamshedpur,2014,Cheating,82,6.1
+Jamshedpur,2014,Riots Others (excluding previous columns),101,7.6
+Jodhpur,2014,Cheating,3,0.3
+Jodhpur,2014,Riots Others (excluding previous columns),14,1.2
+Kannur,2014,Cheating,163,9.9
+Kannur,2014,Riots Others (excluding previous columns),2,0.1
+Kanpur,2014,Cheating,97,3.3
+Kanpur,2014,Riots Others (excluding previous columns),125,4.3
+Kochi,2014,Cheating,57,2.7
+Kochi,2014,Riots Others (excluding previous columns),IB,0.7
+Kolkata,2014,Cheating,315,2.2
+Kolkata,2014,Riots Others (excluding previous columns),338,2.4
+Kollam,2014,Cheating,276,24.9
+Kollam,2014,Riots Others (excluding previous columns),9,0.8
+Kota,2014,Cheating,0,0
+Kota,2014,Riots Others (excluding previous columns),9,0.9
+Kozhikode,2014,Cheating,189,9.3
+Kozhikode,2014,Riots Others (excluding previous columns),34,1.7
+Lucknow,2014,Cheating,65,2.2
+Lucknow,2014,Riots Others (excluding previous columns),459,15.8
+Ludhiana,2014,Cheating,0,0
+Ludhiana,2014,Riots Others (excluding previous columns),29,1.8
+Madurai,2014,Cheating,23,1.6
+Madurai,2014,Riots Others (excluding previous columns),8,0.5
+Malappuram,2014,Cheating,154,9.1
+Malappuram,2014,Riots Others (excluding previous columns),4,0.2
+Meerut,2014,Cheating,153,10.7
+Meerut,2014,Riots Others (excluding previous columns),67,4.7
+Mumbai,2014,Cheating,400,2.2
+Mumbai,2014,Riots Others (excluding previous columns),672,3.6
+Nagpur,2014,Cheating,147,5.9
+Nagpur,2014,Riots Others (excluding previous columns),52,2.1
+Nasik,2014,Cheating,63,4
+Nasik,2014,Riots Others (excluding previous columns),26,1.7
+Patna,2014,Cheating,470,23
+Patna,2014,Riots Others (excluding previous columns),60,2.9
+Pune,2014,Cheating,238,4.7
+Pune,2014,Riots Others (excluding previous columns),70,1.4
+Raipur,2014,Cheating,43,3.8
+Raipur,2014,Riots Others (excluding previous columns),29,2.6
+Rajkot,2014,Cheating,61,4.4
+Rajkot,2014,Riots Others (excluding previous columns),70,5
+Ranchi,2014,Cheating,47,4.2
+Ranchi,2014,Riots Others (excluding previous columns),32,2.8
+Srinagar,2014,Cheating,130,10.2
+Srinagar,2014,Riots Others (excluding previous columns),9,0.7
+Surat,2014,Cheating,30,0.7
+Surat,2014,Riots Others (excluding previous columns),26,0.6
+Thiruvananthapuram,2014,Cheating,226,13.4
+Thiruvananthapuram,2014,Riots Others (excluding previous columns),19,1.1
+Thrissur,2014,Cheating,73,3.9
+Thrissur,2014,Riots Others (excluding previous columns),14,0.8
+Tiruch irapalli,2014,Cheating,10,1
+Tiruch irapalli,2014,Riots Others (excluding previous columns),0,0
+Vadodara,2014,Cheating,41,2.3
+Vadodara,2014,Riots Others (excluding previous columns),18,1
+Varanasi,2014,Cheating,34,2.4
+Varanasi,2014,Riots Others (excluding previous columns),124,8.6
+Vasai Virar,2014,Cheating,95,7.8
+Vasai Virar,2014,Riots Others (excluding previous columns),28,2.3
+Vijayawada,2014,Cheating,2,0.1
+Vijayawada,2014,Riots Others (excluding previous columns),68,4.6
+Vishakhapatnam,2014,Cheating,0,0
+Vishakhapatnam,2014,Riots Others (excluding previous columns),71,4.1
+Agra,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Agra,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.3
+Ahmedabad,2014,Counterfeiting Government Stamp (Section 255 IPC),5,0.1
+Ahmedabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",11,0.2
+Allahabad,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Allahabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.5
+Amritsar,2014,Counterfeiting Government Stamp (Section 255 IPC),2,0.2
+Amritsar,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Asansol,2014,Counterfeiting Government Stamp (Section 255 IPC),68,5.5
+Asansol,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Aurangabad,2014,Counterfeiting Government Stamp (Section 255 IPC),4,0.3
+Aurangabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Bengaluru,2014,Counterfeiting Government Stamp (Section 255 IPC),43,0.5
+Bengaluru,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",29,0.3
+Bhopal,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.2
+Bhopal,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",5,0.3
+Chandigarh City,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.3
+Chandigarh City,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",0,0
+Chennai,2014,Counterfeiting Government Stamp (Section 255 IPC),67,0.8
+Chennai,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",74,0.9
+Coimbatore,2014,Counterfeiting Government Stamp (Section 255 IPC),1,0
+Coimbatore,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.1
+Delhi (City),2014,Counterfeiting Government Stamp (Section 255 IPC),354,2.2
+Delhi (City),2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",72,0.4
+Dhanbad,2014,Counterfeiting Government Stamp (Section 255 IPC),24,2
+Dhanbad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0.1
+Durg-Bhilainagar,2014,Counterfeiting Government Stamp (Section 255 IPC),1,0.1
+Durg-Bhilainagar,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.6
+Faridabad,2014,Counterfeiting Government Stamp (Section 255 IPC),107,7.6
+Faridabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",4,0.3
+Ghaziabad,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Ghaziabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0
+Gwalior,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.3
+Gwalior,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",0,0
+Flyderabad,2014,Counterfeiting Government Stamp (Section 255 IPC),43,0.6
+Flyderabad,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",37,0.5
+Indore,2014,Counterfeiting Government Stamp (Section 255 IPC),47,2.2
+Indore,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",5,0.2
+Jabalpur,2014,Counterfeiting Government Stamp (Section 255 IPC),9,0.7
+Jabalpur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Jaipur,2014,Counterfeiting Government Stamp (Section 255 IPC),1,0
+Jaipur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.2
+Jamshedpur,2014,Counterfeiting Government Stamp (Section 255 IPC),41,3.1
+Jamshedpur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",0,0
+Jodhpur,2014,Counterfeiting Government Stamp (Section 255 IPC),532,46.7
+Jodhpur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Kannur,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Kannur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0.1
+Kanpur,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Kanpur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.2
+Kochi,2014,Counterfeiting Government Stamp (Section 255 IPC),1,0
+Kochi,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",3,0.1
+Kolkata,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Kolkata,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",24,0.2
+Kollam,2014,Counterfeiting Government Stamp (Section 255 IPC),14,1.3
+Kollam,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Kota,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Kota,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Kozhikode,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.1
+Kozhikode,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",9,0.4
+Lucknow,2014,Counterfeiting Government Stamp (Section 255 IPC),44,1.5
+Lucknow,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",7,0.2
+Ludhiana,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Ludhiana,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0.1
+Madurai,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Madurai,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",27,1.8
+Malappuram,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Malappuram,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0.1
+Meerut,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Meerut,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",6,0.4
+Mumbai,2014,Counterfeiting Government Stamp (Section 255 IPC),980,5.3
+Mumbai,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",39,0.2
+Nagpur,2014,Counterfeiting Government Stamp (Section 255 IPC),2,0.1
+Nagpur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",3,0.1
+Nasik,2014,Counterfeiting Government Stamp (Section 255 IPC),1,0.1
+Nasik,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",12,0.8
+Patna,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Patna,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",1,0
+Pune,2014,Counterfeiting Government Stamp (Section 255 IPC),8,0.2
+Pune,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",14,0.3
+Raipur,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Raipur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",3,0.3
+Rajkot,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.2
+Rajkot,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",3,0.2
+Ranchi,2014,Counterfeiting Government Stamp (Section 255 IPC),55,4.9
+Ranchi,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Srinagar,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Srinagar,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",5,0.4
+Surat,2014,Counterfeiting Government Stamp (Section 255 IPC),18,0.4
+Surat,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",7,0.2
+Thiruvananthapuram,2014,Counterfeiting Government Stamp (Section 255 IPC),23,1.4
+Thiruvananthapuram,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",14,0.8
+Thrissur,2014,Counterfeiting Government Stamp (Section 255 IPC),4,0.2
+Thrissur,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",3,0.2
+Tiruch irapalli,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Tiruch irapalli,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",2,0.2
+Vadodara,2014,Counterfeiting Government Stamp (Section 255 IPC),9,0.5
+Vadodara,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",4,0.2
+Varanasi,2014,Counterfeiting Government Stamp (Section 255 IPC),0,0
+Varanasi,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",5,0.3
+Vasai Virar,2014,Counterfeiting Government Stamp (Section 255 IPC),11,0.9
+Vasai Virar,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",10,0.8
+Vijayawada,2014,Counterfeiting Government Stamp (Section 255 IPC),46,3.1
+Vijayawada,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",12,0.8
+Vishakhapatnam,2014,Counterfeiting Government Stamp (Section 255 IPC),3,0.2
+Vishakhapatnam,2014,"Offences Related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",7,0.4
+Agra,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.3
+Agra,2014,Counterfeit Currency & Bank Notes Total,6,0.3
+Ahmedabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",11,0.2
+Ahmedabad,2014,Counterfeit Currency & Bank Notes Total,2,0
+Allahabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.5
+Allahabad,2014,Counterfeit Currency & Bank Notes Total,6,0.5
+Amritsar,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Amritsar,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Asansol,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Asansol,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Aurangabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Aurangabad,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Bengaluru,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",29,0.3
+Bengaluru,2014,Counterfeit Currency & Bank Notes Total,13,0.2
+Bhopal,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",5,0.3
+Bhopal,2014,Counterfeit Currency & Bank Notes Total,0,0
+Chandigarh City,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",0,0
+Chandigarh City,2014,Counterfeit Currency & Bank Notes Total,0,0
+Chennai,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",74,0.9
+Chennai,2014,Counterfeit Currency & Bank Notes Total,0,0
+Coimbatore,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.1
+Coimbatore,2014,Counterfeit Currency & Bank Notes Total,0,0
+Delhi (City),2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",71,0.4
+Delhi (City),2014,Counterfeit Currency & Bank Notes Total,5,0
+Dhanbad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",1,0.1
+Dhanbad,2014,Counterfeit Currency & Bank Notes Total,1,0.1
+Durg-Bhilainagar,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.6
+Durg-Bhilainagar,2014,Counterfeit Currency & Bank Notes Total,0,0
+Faridabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",4,0.3
+Faridabad,2014,Counterfeit Currency & Bank Notes Total,0,0
+Ghaziabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",1,0
+Ghaziabad,2014,Counterfeit Currency & Bank Notes Total,1,0
+Gwalior,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",0,0
+Gwalior,2014,Counterfeit Currency & Bank Notes Total,0,0
+Flyderabad,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",37,0.5
+Flyderabad,2014,Counterfeit Currency & Bank Notes Total,6,0.1
+Indore,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",5,0.2
+Indore,2014,Counterfeit Currency & Bank Notes Total,4,0.2
+Jabalpur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Jabalpur,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Jaipur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.2
+Jaipur,2014,Counterfeit Currency & Bank Notes Total,1,0
+Jamshedpur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",0,0
+Jamshedpur,2014,Counterfeit Currency & Bank Notes Total,0,0
+Jodhpur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Jodhpur,2014,Counterfeit Currency & Bank Notes Total,0,0
+Kannur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",1,0.1
+Kannur,2014,Counterfeit Currency & Bank Notes Total,0,0
+Kanpur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.2
+Kanpur,2014,Counterfeit Currency & Bank Notes Total,6,0.2
+Kochi,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",3,0.1
+Kochi,2014,Counterfeit Currency & Bank Notes Total,3,0.1
+Kolkata,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",24,0.2
+Kolkata,2014,Counterfeit Currency & Bank Notes Total,19,0.1
+Kollam,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Kollam,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Kota,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Kota,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Kozhikode,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",9,0.4
+Kozhikode,2014,Counterfeit Currency & Bank Notes Total,7,0.3
+Lucknow,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",7,0.2
+Lucknow,2014,Counterfeit Currency & Bank Notes Total,3,0.1
+Ludhiana,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",1,0.1
+Ludhiana,2014,Counterfeit Currency & Bank Notes Total,1,0.1
+Madurai,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",27,1.8
+Madurai,2014,Counterfeit Currency & Bank Notes Total,27,1.8
+Malappuram,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",1,0.1
+Malappuram,2014,Counterfeit Currency & Bank Notes Total,1,0.1
+Meerut,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",6,0.4
+Meerut,2014,Counterfeit Currency & Bank Notes Total,6,0.4
+Mumbai,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",39,0.2
+Mumbai,2014,Counterfeit Currency & Bank Notes Total,26,0.1
+Nagpur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",3,0.1
+Nagpur,2014,Counterfeit Currency & Bank Notes Total,3,0.1
+Nasik,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",12,0.8
+Nasik,2014,Counterfeit Currency & Bank Notes Total,11,0.7
+Patna,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",0,0
+Patna,2014,Counterfeit Currency & Bank Notes Total,0,0
+Pune,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",14,0.3
+Pune,2014,Counterfeit Currency & Bank Notes Total,14,0.3
+Raipur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",3,0.3
+Raipur,2014,Counterfeit Currency & Bank Notes Total,3,0.3
+Rajkot,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",3,0.2
+Rajkot,2014,Counterfeit Currency & Bank Notes Total,0,0
+Ranchi,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Ranchi,2014,Counterfeit Currency & Bank Notes Total,0,0
+Srinagar,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",5,0.4
+Srinagar,2014,Counterfeit Currency & Bank Notes Total,5,0.4
+Surat,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",7,0.2
+Surat,2014,Counterfeit Currency & Bank Notes Total,4,0.1
+Thiruvananthapuram,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",14,0.8
+Thiruvananthapuram,2014,Counterfeit Currency & Bank Notes Total,0,0
+Thrissur,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",3,0.2
+Thrissur,2014,Counterfeit Currency & Bank Notes Total,3,0.2
+Tiruch irapalli,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",2,0.2
+Tiruch irapalli,2014,Counterfeit Currency & Bank Notes Total,2,0.2
+Vadodara,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",4,0.2
+Vadodara,2014,Counterfeit Currency & Bank Notes Total,4,0.2
+Varanasi,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",5,0.3
+Varanasi,2014,Counterfeit Currency & Bank Notes Total,5,0.3
+Vasai Virar,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",10,0.8
+Vasai Virar,2014,Counterfeit Currency & Bank Notes Total,0,0
+Vijayawada,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",12,0.8
+Vijayawada,2014,Counterfeit Currency & Bank Notes Total,0,0
+Vishakhapatnam,2014,"Using As Genuine, Forged or Counterfeiting Currency / Bank Notes (Section 489B IPC)",7,0.4
+Vishakhapatnam,2014,Counterfeit Currency & Bank Notes Total,7,0.4
+Agra,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Agra,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Ahmedabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),8,0.1
+Ahmedabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Allahabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Allahabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Amritsar,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Amritsar,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Asansol,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Asansol,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Aurangabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Aurangabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Bengaluru,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),2,0
+Bengaluru,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Bhopal,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Bhopal,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),5,0.3
+Chandigarh City,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Chandigarh City,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Chennai,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Chennai,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Coimbatore,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),2,0.1
+Coimbatore,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Delhi (City),2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),61,0.4
+Delhi (City),2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Dhanbad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Dhanbad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Durg-Bhilainagar,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Durg-Bhilainagar,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Faridabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Faridabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Ghaziabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Ghaziabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Gwalior,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Gwalior,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Flyderabad,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),5,0.1
+Flyderabad,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Indore,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),1,0
+Indore,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Jabalpur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Jabalpur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Jaipur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),1,0
+Jaipur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Jamshedpur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Jamshedpur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Jodhpur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Jodhpur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kannur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Kannur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kanpur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Kanpur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kochi,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Kochi,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kolkata,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),2,0
+Kolkata,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kollam,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Kollam,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kota,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Kota,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Kozhikode,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),1,0
+Kozhikode,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Lucknow,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Lucknow,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Ludhiana,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Ludhiana,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Madurai,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Madurai,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Malappuram,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Malappuram,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Meerut,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Meerut,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Mumbai,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),5,0
+Mumbai,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Nagpur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Nagpur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Nasik,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Nasik,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Patna,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Patna,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Pune,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Pune,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Raipur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Raipur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Rajkot,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Rajkot,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Ranchi,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Ranchi,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Srinagar,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Srinagar,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Surat,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Surat,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Thiruvananthapuram,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Thiruvananthapuram,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Thrissur,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Thrissur,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Tiruch irapalli,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Tiruch irapalli,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Vadodara,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Vadodara,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Varanasi,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Varanasi,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Vasai Virar,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Vasai Virar,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Vijayawada,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Vijayawada,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Vishakhapatnam,2014,Making or Using Documents Resembling Currency Notes / Bank Notes (Section 489- E IPC),0,0
+Vishakhapatnam,2014,Making or Possessing Materials for Forged or Counterfeiting Currency / Bank Notes (Section 489D IPC),0,0
+Agra,2014,Grievous Hurt (Section 325 & 326 IPC),5,0.3
+Agra,2014,Attempt To Acid Attack (Section 326B IPC),164,9.4
+Agra,2014,Acid Attack (Section 326A IPC),163,9.3
+Ahmedabad,2014,Grievous Hurt (Section 325 & 326 IPC),4,0.1
+Ahmedabad,2014,Attempt To Acid Attack (Section 326B IPC),245,3.9
+Ahmedabad,2014,Acid Attack (Section 326A IPC),241,3.8
+Allahabad,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Allahabad,2014,Attempt To Acid Attack (Section 326B IPC),21,1.7
+Allahabad,2014,Acid Attack (Section 326A IPC),19,1.6
+Amritsar,2014,Grievous Hurt (Section 325 & 326 IPC),2,0.2
+Amritsar,2014,Attempt To Acid Attack (Section 326B IPC),143,12.1
+Amritsar,2014,Acid Attack (Section 326A IPC),142,12
+Asansol,2014,Grievous Hurt (Section 325 & 326 IPC),10,0.8
+Asansol,2014,Attempt To Acid Attack (Section 326B IPC),2,0.2
+Asansol,2014,Acid Attack (Section 326A IPC),0,0
+Aurangabad,2014,Grievous Hurt (Section 325 & 326 IPC),35,2.9
+Aurangabad,2014,Attempt To Acid Attack (Section 326B IPC),71,6
+Aurangabad,2014,Acid Attack (Section 326A IPC),71,6
+Bengaluru,2014,Grievous Hurt (Section 325 & 326 IPC),100,1.2
+Bengaluru,2014,Attempt To Acid Attack (Section 326B IPC),217,2.6
+Bengaluru,2014,Acid Attack (Section 326A IPC),216,2.5
+Bhopal,2014,Grievous Hurt (Section 325 & 326 IPC),12,0.6
+Bhopal,2014,Attempt To Acid Attack (Section 326B IPC),298,15.8
+Bhopal,2014,Acid Attack (Section 326A IPC),298,15.8
+Chandigarh City,2014,Grievous Hurt (Section 325 & 326 IPC),12,1.2
+Chandigarh City,2014,Attempt To Acid Attack (Section 326B IPC),19,1.9
+Chandigarh City,2014,Acid Attack (Section 326A IPC),19,1.9
+Chennai,2014,Grievous Hurt (Section 325 & 326 IPC),17,0.2
+Chennai,2014,Attempt To Acid Attack (Section 326B IPC),46,0.5
+Chennai,2014,Acid Attack (Section 326A IPC),44,0.5
+Coimbatore,2014,Grievous Hurt (Section 325 & 326 IPC),14,0.7
+Coimbatore,2014,Attempt To Acid Attack (Section 326B IPC),17,0.8
+Coimbatore,2014,Acid Attack (Section 326A IPC),17,0.8
+Delhi (City),2014,Grievous Hurt (Section 325 & 326 IPC),166,1
+Delhi (City),2014,Attempt To Acid Attack (Section 326B IPC),606,3.7
+Delhi (City),2014,Acid Attack (Section 326A IPC),575,3.5
+Dhanbad,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Dhanbad,2014,Attempt To Acid Attack (Section 326B IPC),12,1
+Dhanbad,2014,Acid Attack (Section 326A IPC),12,1
+Durg-Bhilainagar,2014,Grievous Hurt (Section 325 & 326 IPC),36,3.4
+Durg-Bhilainagar,2014,Attempt To Acid Attack (Section 326B IPC),42,3.9
+Durg-Bhilainagar,2014,Acid Attack (Section 326A IPC),42,3.9
+Faridabad,2014,Grievous Hurt (Section 325 & 326 IPC),7,0.5
+Faridabad,2014,Attempt To Acid Attack (Section 326B IPC),111,7.9
+Faridabad,2014,Acid Attack (Section 326A IPC),110,7.8
+Ghaziabad,2014,Grievous Hurt (Section 325 & 326 IPC),1,0
+Ghaziabad,2014,Attempt To Acid Attack (Section 326B IPC),10,0.4
+Ghaziabad,2014,Acid Attack (Section 326A IPC),8,0.3
+Gwalior,2014,Grievous Hurt (Section 325 & 326 IPC),10,0.9
+Gwalior,2014,Attempt To Acid Attack (Section 326B IPC),36,3.3
+Gwalior,2014,Acid Attack (Section 326A IPC),36,3.3
+Flyderabad,2014,Grievous Hurt (Section 325 & 326 IPC),20,0.3
+Flyderabad,2014,Attempt To Acid Attack (Section 326B IPC),119,1.5
+Flyderabad,2014,Acid Attack (Section 326A IPC),119,1.5
+Indore,2014,Grievous Hurt (Section 325 & 326 IPC),39,1.8
+Indore,2014,Attempt To Acid Attack (Section 326B IPC),72,3.3
+Indore,2014,Acid Attack (Section 326A IPC),70,3.2
+Jabalpur,2014,Grievous Hurt (Section 325 & 326 IPC),4,0.3
+Jabalpur,2014,Attempt To Acid Attack (Section 326B IPC),93,7.3
+Jabalpur,2014,Acid Attack (Section 326A IPC),93,7.3
+Jaipur,2014,Grievous Hurt (Section 325 & 326 IPC),26,0.8
+Jaipur,2014,Attempt To Acid Attack (Section 326B IPC),6,0.2
+Jaipur,2014,Acid Attack (Section 326A IPC),6,0.2
+Jamshedpur,2014,Grievous Hurt (Section 325 & 326 IPC),1,0.1
+Jamshedpur,2014,Attempt To Acid Attack (Section 326B IPC),56,4.2
+Jamshedpur,2014,Acid Attack (Section 326A IPC),55,4.1
+Jodhpur,2014,Grievous Hurt (Section 325 & 326 IPC),11,1
+Jodhpur,2014,Attempt To Acid Attack (Section 326B IPC),10,0.9
+Jodhpur,2014,Acid Attack (Section 326A IPC),10,0.9
+Kannur,2014,Grievous Hurt (Section 325 & 326 IPC),20,1.2
+Kannur,2014,Attempt To Acid Attack (Section 326B IPC),8,0.5
+Kannur,2014,Acid Attack (Section 326A IPC),8,0.5
+Kanpur,2014,Grievous Hurt (Section 325 & 326 IPC),3,0.1
+Kanpur,2014,Attempt To Acid Attack (Section 326B IPC),91,3.1
+Kanpur,2014,Acid Attack (Section 326A IPC),90,3.1
+Kochi,2014,Grievous Hurt (Section 325 & 326 IPC),3,0.1
+Kochi,2014,Attempt To Acid Attack (Section 326B IPC),49,2.3
+Kochi,2014,Acid Attack (Section 326A IPC),49,2.3
+Kolkata,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Kolkata,2014,Attempt To Acid Attack (Section 326B IPC),905,6.4
+Kolkata,2014,Acid Attack (Section 326A IPC),905,6.4
+Kollam,2014,Grievous Hurt (Section 325 & 326 IPC),13,1.2
+Kollam,2014,Attempt To Acid Attack (Section 326B IPC),132,11.9
+Kollam,2014,Acid Attack (Section 326A IPC),132,11.9
+Kota,2014,Grievous Hurt (Section 325 & 326 IPC),1,0.1
+Kota,2014,Attempt To Acid Attack (Section 326B IPC),28,2.8
+Kota,2014,Acid Attack (Section 326A IPC),28,2.8
+Kozhikode,2014,Grievous Hurt (Section 325 & 326 IPC),9,0.4
+Kozhikode,2014,Attempt To Acid Attack (Section 326B IPC),31,1.5
+Kozhikode,2014,Acid Attack (Section 326A IPC),31,1.5
+Lucknow,2014,Grievous Hurt (Section 325 & 326 IPC),11,0.4
+Lucknow,2014,Attempt To Acid Attack (Section 326B IPC),91,3.1
+Lucknow,2014,Acid Attack (Section 326A IPC),91,3.1
+Ludhiana,2014,Grievous Hurt (Section 325 & 326 IPC),5,0.3
+Ludhiana,2014,Attempt To Acid Attack (Section 326B IPC),208,12.9
+Ludhiana,2014,Acid Attack (Section 326A IPC),206,12.8
+Madurai,2014,Grievous Hurt (Section 325 & 326 IPC),7,0.5
+Madurai,2014,Attempt To Acid Attack (Section 326B IPC),4,0.3
+Madurai,2014,Acid Attack (Section 326A IPC),4,0.3
+Malappuram,2014,Grievous Hurt (Section 325 & 326 IPC),4,0.2
+Malappuram,2014,Attempt To Acid Attack (Section 326B IPC),20,1.2
+Malappuram,2014,Acid Attack (Section 326A IPC),20,1.2
+Meerut,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Meerut,2014,Attempt To Acid Attack (Section 326B IPC),10,0.7
+Meerut,2014,Acid Attack (Section 326A IPC),10,0.7
+Mumbai,2014,Grievous Hurt (Section 325 & 326 IPC),54,0.3
+Mumbai,2014,Attempt To Acid Attack (Section 326B IPC),2006,10.9
+Mumbai,2014,Acid Attack (Section 326A IPC),2004,10.9
+Nagpur,2014,Grievous Hurt (Section 325 & 326 IPC),33,1.3
+Nagpur,2014,Attempt To Acid Attack (Section 326B IPC),313,12.5
+Nagpur,2014,Acid Attack (Section 326A IPC),312,12.5
+Nasik,2014,Grievous Hurt (Section 325 & 326 IPC),6,0.4
+Nasik,2014,Attempt To Acid Attack (Section 326B IPC),65,4.2
+Nasik,2014,Acid Attack (Section 326A IPC),65,4.2
+Patna,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Patna,2014,Attempt To Acid Attack (Section 326B IPC),2515,122.9
+Patna,2014,Acid Attack (Section 326A IPC),2515,122.9
+Pune,2014,Grievous Hurt (Section 325 & 326 IPC),38,0.8
+Pune,2014,Attempt To Acid Attack (Section 326B IPC),470,9.3
+Pune,2014,Acid Attack (Section 326A IPC),469,9.3
+Raipur,2014,Grievous Hurt (Section 325 & 326 IPC),19,1.7
+Raipur,2014,Attempt To Acid Attack (Section 326B IPC),99,8.8
+Raipur,2014,Acid Attack (Section 326A IPC),99,8.8
+Rajkot,2014,Grievous Hurt (Section 325 & 326 IPC),11,0.8
+Rajkot,2014,Attempt To Acid Attack (Section 326B IPC),92,6.6
+Rajkot,2014,Acid Attack (Section 326A IPC),92,6.6
+Ranchi,2014,Grievous Hurt (Section 325 & 326 IPC),9,0.8
+Ranchi,2014,Attempt To Acid Attack (Section 326B IPC),421,37.4
+Ranchi,2014,Acid Attack (Section 326A IPC),421,37.4
+Srinagar,2014,Grievous Hurt (Section 325 & 326 IPC),27,2.1
+Srinagar,2014,Attempt To Acid Attack (Section 326B IPC),8,0.6
+Srinagar,2014,Acid Attack (Section 326A IPC),6,0.5
+Surat,2014,Grievous Hurt (Section 325 & 326 IPC),4,0.1
+Surat,2014,Attempt To Acid Attack (Section 326B IPC),355,7.7
+Surat,2014,Acid Attack (Section 326A IPC),355,7.7
+Thiruvananthapuram,2014,Grievous Hurt (Section 325 & 326 IPC),10,0.6
+Thiruvananthapuram,2014,Attempt To Acid Attack (Section 326B IPC),48,2.8
+Thiruvananthapuram,2014,Acid Attack (Section 326A IPC),48,2.8
+Thrissur,2014,Grievous Hurt (Section 325 & 326 IPC),12,0.6
+Thrissur,2014,Attempt To Acid Attack (Section 326B IPC),67,3.6
+Thrissur,2014,Acid Attack (Section 326A IPC),67,3.6
+Tiruch irapalli,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Tiruch irapalli,2014,Attempt To Acid Attack (Section 326B IPC),13,1.3
+Tiruch irapalli,2014,Acid Attack (Section 326A IPC),13,1.3
+Vadodara,2014,Grievous Hurt (Section 325 & 326 IPC),8,0.4
+Vadodara,2014,Attempt To Acid Attack (Section 326B IPC),106,5.8
+Vadodara,2014,Acid Attack (Section 326A IPC),105,5.8
+Varanasi,2014,Grievous Hurt (Section 325 & 326 IPC),0,0
+Varanasi,2014,Attempt To Acid Attack (Section 326B IPC),74,5.2
+Varanasi,2014,Acid Attack (Section 326A IPC),74,5.2
+Vasai Virar,2014,Grievous Hurt (Section 325 & 326 IPC),4,0.3
+Vasai Virar,2014,Attempt To Acid Attack (Section 326B IPC),77,6.3
+Vasai Virar,2014,Acid Attack (Section 326A IPC),76,6.2
+Vijayawada,2014,Grievous Hurt (Section 325 & 326 IPC),21,1.4
+Vijayawada,2014,Attempt To Acid Attack (Section 326B IPC),25,1.7
+Vijayawada,2014,Acid Attack (Section 326A IPC),25,1.7
+Vishakhapatnam,2014,Grievous Hurt (Section 325 & 326 IPC),14,0.8
+Vishakhapatnam,2014,Attempt To Acid Attack (Section 326B IPC),64,3.7
+Vishakhapatnam,2014,Acid Attack (Section 326A IPC),63,3.6
+Agra,2014,Dowry Deaths,36,4.5
+Agra,2014,Sexual Harassment,207,25.7
+Ahmedabad,2014,Dowry Deaths,11,0.4
+Ahmedabad,2014,Sexual Harassment,162,5.4
+Allahabad,2014,Dowry Deaths,14,2.5
+Allahabad,2014,Sexual Harassment,96,17.1
+Amritsar,2014,Dowry Deaths,3,0.5
+Amritsar,2014,Sexual Harassment,45,8.1
+Asansol,2014,Dowry Deaths,28,4.7
+Asansol,2014,Sexual Harassment,158,26.6
+Aurangabad,2014,Dowry Deaths,2,0.4
+Aurangabad,2014,Sexual Harassment,227,39.9
+Bengaluru,2014,Dowry Deaths,57,1.4
+Bengaluru,2014,Sexual Harassment,680,16.8
+Bhopal,2014,Dowry Deaths,16,1.8
+Bhopal,2014,Sexual Harassment,289,32.2
+Chandigarh City,2014,Dowry Deaths,2,0.4
+Chandigarh City,2014,Sexual Harassment,78,16.8
+Chennai,2014,Dowry Deaths,10,0.2
+Chennai,2014,Sexual Harassment,59,1.4
+Coimbatore,2014,Dowry Deaths,0,0
+Coimbatore,2014,Sexual Harassment,8,0.7
+Delhi (City),2014,Dowry Deaths,127,1.7
+Delhi (City),2014,Sexual Harassment,3810,50.3
+Dhanbad,2014,Dowry Deaths,9,1.6
+Dhanbad,2014,Sexual Harassment,18,3.2
+Durg-Bhilainagar,2014,Dowry Deaths,9,1.7
+Durg-Bhilainagar,2014,Sexual Harassment,194,37.5
+Faridabad,2014,Dowry Deaths,20,3.1
+Faridabad,2014,Sexual Harassment,94,14.4
+Ghaziabad,2014,Dowry Deaths,17,1.5
+Ghaziabad,2014,Sexual Harassment,168,15.2
+Gwalior,2014,Dowry Deaths,28,5.5
+Gwalior,2014,Sexual Harassment,272,53
+Flyderabad,2014,Dowry Deaths,22,0.6
+Flyderabad,2014,Sexual Harassment,393,10.4
+Indore,2014,Dowry Deaths,23,2.2
+Indore,2014,Sexual Harassment,301,29
+Jabalpur,2014,Dowry Deaths,17,2.8
+Jabalpur,2014,Sexual Harassment,221,36.6
+Jaipur,2014,Dowry Deaths,33,2.3
+Jaipur,2014,Sexual Harassment,455,31.3
+Jamshedpur,2014,Dowry Deaths,8,1.3
+Jamshedpur,2014,Sexual Harassment,30,4.7
+Jodhpur,2014,Dowry Deaths,8,1.5
+Jodhpur,2014,Sexual Harassment,212,39.4
+Kannur,2014,Dowry Deaths,1,0.1
+Kannur,2014,Sexual Harassment,47,5.3
+Kanpur,2014,Dowry Deaths,27,2
+Kanpur,2014,Sexual Harassment,129,9.7
+Kochi,2014,Dowry Deaths,0,0
+Kochi,2014,Sexual Harassment,158,14.7
+Kolkata,2014,Dowry Deaths,12,0.2
+Kolkata,2014,Sexual Harassment,577,8.5
+Kollam,2014,Dowry Deaths,1,0.2
+Kollam,2014,Sexual Harassment,287,49.5
+Kota,2014,Dowry Deaths,3,0.6
+Kota,2014,Sexual Harassment,102,21.6
+Kozhikode,2014,Dowry Deaths,1,0.1
+Kozhikode,2014,Sexual Harassment,107,10.1
+Lucknow,2014,Dowry Deaths,31,2.2
+Lucknow,2014,Sexual Harassment,229,16.6
+Ludhiana,2014,Dowry Deaths,5,0.7
+Ludhiana,2014,Sexual Harassment,98,13.3
+Madurai,2014,Dowry Deaths,1,0.1
+Madurai,2014,Sexual Harassment,22,3
+Malappuram,2014,Dowry Deaths,0,0
+Malappuram,2014,Sexual Harassment,75,8.4
+Meerut,2014,Dowry Deaths,20,3
+Meerut,2014,Sexual Harassment,217,32.4
+Mumbai,2014,Dowry Deaths,22,0.3
+Mumbai,2014,Sexual Harassment,1626,19.1
+Nagpur,2014,Dowry Deaths,10,0.8
+Nagpur,2014,Sexual Harassment,279,22.8
+Nasik,2014,Dowry Deaths,3,0.4
+Nasik,2014,Sexual Harassment,101,13.7
+Patna,2014,Dowry Deaths,41,4.3
+Patna,2014,Sexual Harassment,0,0
+Pune,2014,Dowry Deaths,20,0.8
+Pune,2014,Sexual Harassment,454,19
+Raipur,2014,Dowry Deaths,2,0.4
+Raipur,2014,Sexual Harassment,120,22.1
+Rajkot,2014,Dowry Deaths,0,0
+Rajkot,2014,Sexual Harassment,31,4.7
+Ranchi,2014,Dowry Deaths,10,1.9
+Ranchi,2014,Sexual Harassment,16,3
+Srinagar,2014,Dowry Deaths,0,0
+Srinagar,2014,Sexual Harassment,218,36.6
+Surat,2014,Dowry Deaths,2,0.1
+Surat,2014,Sexual Harassment,70,3.5
+Thiruvananthapuram,2014,Dowry Deaths,2,0.2
+Thiruvananthapuram,2014,Sexual Harassment,254,29.1
+Thrissur,2014,Dowry Deaths,0,0
+Thrissur,2014,Sexual Harassment,109,11.1
+Tiruch irapalli,2014,Dowry Deaths,0,0
+Tiruch irapalli,2014,Sexual Harassment,10,1.9
+Vadodara,2014,Dowry Deaths,1,0.1
+Vadodara,2014,Sexual Harassment,109,12.5
+Varanasi,2014,Dowry Deaths,11,1.6
+Varanasi,2014,Sexual Harassment,116,17.2
+Vasai Virar,2014,Dowry Deaths,0,0
+Vasai Virar,2014,Sexual Harassment,113,19.8
+Vijayawada,2014,Dowry Deaths,10,1.4
+Vijayawada,2014,Sexual Harassment,279,37.7
+Vishakhapatnam,2014,Dowry Deaths,13,1.5
+Vishakhapatnam,2014,Sexual Harassment,147,17.2
+Agra,2014,Voyeurism(Section 354C IPC),2,0.2
+Ahmedabad,2014,Voyeurism(Section 354C IPC),2,0.1
+Allahabad,2014,Voyeurism(Section 354C IPC),2,0.4
+Amritsar,2014,Voyeurism(Section 354C IPC),0,0
+Asansol,2014,Voyeurism(Section 354C IPC),3,0.5
+Aurangabad,2014,Voyeurism(Section 354C IPC),2,0.4
+Bengaluru,2014,Voyeurism(Section 354C IPC),4,0.1
+Bhopal,2014,Voyeurism(Section 354C IPC),0,0
+Chandigarh City,2014,Voyeurism(Section 354C IPC),2,0.4
+Chennai,2014,Voyeurism(Section 354C IPC),0,0
+Coimbatore,2014,Voyeurism(Section 354C IPC),0,0
+Delhi (City),2014,Voyeurism(Section 354C IPC),28,0.4
+Dhanbad,2014,Voyeurism(Section 354C IPC),0,0
+Durg-Bhilainagar,2014,Voyeurism(Section 354C IPC),0,0
+Faridabad,2014,Voyeurism(Section 354C IPC),1,0.2
+Ghaziabad,2014,Voyeurism(Section 354C IPC),1,0.1
+Gwalior,2014,Voyeurism(Section 354C IPC),0,0
+Flyderabad,2014,Voyeurism(Section 354C IPC),12,0.3
+Indore,2014,Voyeurism(Section 354C IPC),1,0.1
+Jabalpur,2014,Voyeurism(Section 354C IPC),0,0
+Jaipur,2014,Voyeurism(Section 354C IPC),1,0.1
+Jamshedpur,2014,Voyeurism(Section 354C IPC),0,0
+Jodhpur,2014,Voyeurism(Section 354C IPC),3,0.6
+Kannur,2014,Voyeurism(Section 354C IPC),0,0
+Kanpur,2014,Voyeurism(Section 354C IPC),0,0
+Kochi,2014,Voyeurism(Section 354C IPC),0,0
+Kolkata,2014,Voyeurism(Section 354C IPC),25,0.4
+Kollam,2014,Voyeurism(Section 354C IPC),0,0
+Kota,2014,Voyeurism(Section 354C IPC),0,0
+Kozhikode,2014,Voyeurism(Section 354C IPC),0,0
+Lucknow,2014,Voyeurism(Section 354C IPC),0,0
+Ludhiana,2014,Voyeurism(Section 354C IPC),1,0.1
+Madurai,2014,Voyeurism(Section 354C IPC),0,0
+Malappuram,2014,Voyeurism(Section 354C IPC),0,0
+Meerut,2014,Voyeurism(Section 354C IPC),0,0
+Mumbai,2014,Voyeurism(Section 354C IPC),14,0.2
+Nagpur,2014,Voyeurism(Section 354C IPC),4,0.3
+Nasik,2014,Voyeurism(Section 354C IPC),0,0
+Patna,2014,Voyeurism(Section 354C IPC),0,0
+Pune,2014,Voyeurism(Section 354C IPC),2,0.1
+Raipur,2014,Voyeurism(Section 354C IPC),0,0
+Rajkot,2014,Voyeurism(Section 354C IPC),0,0
+Ranchi,2014,Voyeurism(Section 354C IPC),0,0
+Srinagar,2014,Voyeurism(Section 354C IPC),0,0
+Surat,2014,Voyeurism(Section 354C IPC),0,0
+Thiruvananthapuram,2014,Voyeurism(Section 354C IPC),0,0
+Thrissur,2014,Voyeurism(Section 354C IPC),3,0.3
+Tiruch irapalli,2014,Voyeurism(Section 354C IPC),0,0
+Vadodara,2014,Voyeurism(Section 354C IPC),1,0.1
+Varanasi,2014,Voyeurism(Section 354C IPC),0,0
+Vasai Virar,2014,Voyeurism(Section 354C IPC),1,0.2
+Vijayawada,2014,Voyeurism(Section 354C IPC),9,1.2
+Vishakhapatnam,2014,Voyeurism(Section 354C IPC),0,0
+Agra,2014,At Office Premises,0,0
+Agra,2014,Other Places Related To Work,0,0
+Agra,2014,Insult To The Modesty of Women (Total),0,0
+Ahmedabad,2014,At Office Premises,3,0.1
+Ahmedabad,2014,Other Places Related To Work,0,0
+Ahmedabad,2014,Insult To The Modesty of Women (Total),0,0
+Allahabad,2014,At Office Premises,1,0.2
+Allahabad,2014,Other Places Related To Work,0,0
+Allahabad,2014,Insult To The Modesty of Women (Total),0,0
+Amritsar,2014,At Office Premises,2,0.4
+Amritsar,2014,Other Places Related To Work,0,0
+Amritsar,2014,Insult To The Modesty of Women (Total),0,0
+Asansol,2014,At Office Premises,1,0.2
+Asansol,2014,Other Places Related To Work,0,0
+Asansol,2014,Insult To The Modesty of Women (Total),0,0
+Aurangabad,2014,At Office Premises,5,0.9
+Aurangabad,2014,Other Places Related To Work,0,0
+Aurangabad,2014,Insult To The Modesty of Women (Total),0,0
+Bengaluru,2014,At Office Premises,57,1.4
+Bengaluru,2014,Other Places Related To Work,1,0
+Bengaluru,2014,Insult To The Modesty of Women (Total),2,0
+Bhopal,2014,At Office Premises,13,1.4
+Bhopal,2014,Other Places Related To Work,0,0
+Bhopal,2014,Insult To The Modesty of Women (Total),13,1.4
+Chandigarh City,2014,At Office Premises,1,0.2
+Chandigarh City,2014,Other Places Related To Work,0,0
+Chandigarh City,2014,Insult To The Modesty of Women (Total),0,0
+Chennai,2014,At Office Premises,157,3.6
+Chennai,2014,Other Places Related To Work,0,0
+Chennai,2014,Insult To The Modesty of Women (Total),157,3.6
+Coimbatore,2014,At Office Premises,0,0
+Coimbatore,2014,Other Places Related To Work,0,0
+Coimbatore,2014,Insult To The Modesty of Women (Total),0,0
+Delhi (City),2014,At Office Premises,1111,14.7
+Delhi (City),2014,Other Places Related To Work,11,0.1
+Delhi (City),2014,Insult To The Modesty of Women (Total),21,0.3
+Dhanbad,2014,At Office Premises,0,0
+Dhanbad,2014,Other Places Related To Work,0,0
+Dhanbad,2014,Insult To The Modesty of Women (Total),0,0
+Durg-Bhilainagar,2014,At Office Premises,9,1.7
+Durg-Bhilainagar,2014,Other Places Related To Work,0,0
+Durg-Bhilainagar,2014,Insult To The Modesty of Women (Total),0,0
+Faridabad,2014,At Office Premises,16,2.4
+Faridabad,2014,Other Places Related To Work,0,0
+Faridabad,2014,Insult To The Modesty of Women (Total),0,0
+Ghaziabad,2014,At Office Premises,8,0.7
+Ghaziabad,2014,Other Places Related To Work,0,0
+Ghaziabad,2014,Insult To The Modesty of Women (Total),0,0
+Gwalior,2014,At Office Premises,19,3.7
+Gwalior,2014,Other Places Related To Work,0,0
+Gwalior,2014,Insult To The Modesty of Women (Total),0,0
+Flyderabad,2014,At Office Premises,87,2.3
+Flyderabad,2014,Other Places Related To Work,4,0.1
+Flyderabad,2014,Insult To The Modesty of Women (Total),23,0.6
+Indore,2014,At Office Premises,31,3
+Indore,2014,Other Places Related To Work,1,0.1
+Indore,2014,Insult To The Modesty of Women (Total),0,0
+Jabalpur,2014,At Office Premises,31,5.1
+Jabalpur,2014,Other Places Related To Work,0,0
+Jabalpur,2014,Insult To The Modesty of Women (Total),0,0
+Jaipur,2014,At Office Premises,0,0
+Jaipur,2014,Other Places Related To Work,0,0
+Jaipur,2014,Insult To The Modesty of Women (Total),0,0
+Jamshedpur,2014,At Office Premises,0,0
+Jamshedpur,2014,Other Places Related To Work,0,0
+Jamshedpur,2014,Insult To The Modesty of Women (Total),0,0
+Jodhpur,2014,At Office Premises,3,0.6
+Jodhpur,2014,Other Places Related To Work,0,0
+Jodhpur,2014,Insult To The Modesty of Women (Total),0,0
+Kannur,2014,At Office Premises,5,0.6
+Kannur,2014,Other Places Related To Work,0,0
+Kannur,2014,Insult To The Modesty of Women (Total),0,0
+Kanpur,2014,At Office Premises,1,0.1
+Kanpur,2014,Other Places Related To Work,0,0
+Kanpur,2014,Insult To The Modesty of Women (Total),0,0
+Kochi,2014,At Office Premises,18,1.7
+Kochi,2014,Other Places Related To Work,0,0
+Kochi,2014,Insult To The Modesty of Women (Total),0,0
+Kolkata,2014,At Office Premises,286,4.2
+Kolkata,2014,Other Places Related To Work,2,0
+Kolkata,2014,Insult To The Modesty of Women (Total),2,0
+Kollam,2014,At Office Premises,13,2.2
+Kollam,2014,Other Places Related To Work,0,0
+Kollam,2014,Insult To The Modesty of Women (Total),0,0
+Kota,2014,At Office Premises,0,0
+Kota,2014,Other Places Related To Work,0,0
+Kota,2014,Insult To The Modesty of Women (Total),0,0
+Kozhikode,2014,At Office Premises,9,0.8
+Kozhikode,2014,Other Places Related To Work,0,0
+Kozhikode,2014,Insult To The Modesty of Women (Total),0,0
+Lucknow,2014,At Office Premises,2,0.1
+Lucknow,2014,Other Places Related To Work,2,0.1
+Lucknow,2014,Insult To The Modesty of Women (Total),0,0
+Ludhiana,2014,At Office Premises,19,2.6
+Ludhiana,2014,Other Places Related To Work,0,0
+Ludhiana,2014,Insult To The Modesty of Women (Total),0,0
+Madurai,2014,At Office Premises,1,0.1
+Madurai,2014,Other Places Related To Work,0,0
+Madurai,2014,Insult To The Modesty of Women (Total),0,0
+Malappuram,2014,At Office Premises,0,0
+Malappuram,2014,Other Places Related To Work,0,0
+Malappuram,2014,Insult To The Modesty of Women (Total),0,0
+Meerut,2014,At Office Premises,0,0
+Meerut,2014,Other Places Related To Work,0,0
+Meerut,2014,Insult To The Modesty of Women (Total),0,0
+Mumbai,2014,At Office Premises,363,4.3
+Mumbai,2014,Other Places Related To Work,4,0
+Mumbai,2014,Insult To The Modesty of Women (Total),23,0.3
+Nagpur,2014,At Office Premises,25,2
+Nagpur,2014,Other Places Related To Work,0,0
+Nagpur,2014,Insult To The Modesty of Women (Total),0,0
+Nasik,2014,At Office Premises,3,0.4
+Nasik,2014,Other Places Related To Work,0,0
+Nasik,2014,Insult To The Modesty of Women (Total),0,0
+Patna,2014,At Office Premises,56,5.8
+Patna,2014,Other Places Related To Work,0,0
+Patna,2014,Insult To The Modesty of Women (Total),0,0
+Pune,2014,At Office Premises,98,4.1
+Pune,2014,Other Places Related To Work,0,0
+Pune,2014,Insult To The Modesty of Women (Total),6,0.3
+Raipur,2014,At Office Premises,3,0.6
+Raipur,2014,Other Places Related To Work,0,0
+Raipur,2014,Insult To The Modesty of Women (Total),3,0.6
+Rajkot,2014,At Office Premises,5,0.8
+Rajkot,2014,Other Places Related To Work,0,0
+Rajkot,2014,Insult To The Modesty of Women (Total),0,0
+Ranchi,2014,At Office Premises,8,1.5
+Ranchi,2014,Other Places Related To Work,0,0
+Ranchi,2014,Insult To The Modesty of Women (Total),0,0
+Srinagar,2014,At Office Premises,44,7.4
+Srinagar,2014,Other Places Related To Work,0,0
+Srinagar,2014,Insult To The Modesty of Women (Total),0,0
+Surat,2014,At Office Premises,0,0
+Surat,2014,Other Places Related To Work,0,0
+Surat,2014,Insult To The Modesty of Women (Total),0,0
+Thiruvananthapuram,2014,At Office Premises,15,1.7
+Thiruvananthapuram,2014,Other Places Related To Work,0,0
+Thiruvananthapuram,2014,Insult To The Modesty of Women (Total),0,0
+Thrissur,2014,At Office Premises,11,1.1
+Thrissur,2014,Other Places Related To Work,0,0
+Thrissur,2014,Insult To The Modesty of Women (Total),0,0
+Tiruch irapalli,2014,At Office Premises,3,0.6
+Tiruch irapalli,2014,Other Places Related To Work,0,0
+Tiruch irapalli,2014,Insult To The Modesty of Women (Total),0,0
+Vadodara,2014,At Office Premises,8,0.9
+Vadodara,2014,Other Places Related To Work,0,0
+Vadodara,2014,Insult To The Modesty of Women (Total),0,0
+Varanasi,2014,At Office Premises,3,0.4
+Varanasi,2014,Other Places Related To Work,0,0
+Varanasi,2014,Insult To The Modesty of Women (Total),0,0
+Vasai Virar,2014,At Office Premises,16,2.8
+Vasai Virar,2014,Other Places Related To Work,0,0
+Vasai Virar,2014,Insult To The Modesty of Women (Total),0,0
+Vijayawada,2014,At Office Premises,212,28.6
+Vijayawada,2014,Other Places Related To Work,0,0
+Vijayawada,2014,Insult To The Modesty of Women (Total),0,0
+Vishakhapatnam,2014,At Office Premises,112,13.1
+Vishakhapatnam,2014,Other Places Related To Work,0,0
+Vishakhapatnam,2014,Insult To The Modesty of Women (Total),0,0
+Agra,2014,Deaths due to Rash/Negligent Driving,367,45.6
+Agra,2014,Causing Death By Negligence (Total),0,0
+Agra,2014,Importation of Girls From Foreign Country,189,10.8
+Ahmedabad,2014,Deaths due to Rash/Negligent Driving,802,26.7
+Ahmedabad,2014,Causing Death By Negligence (Total),0,0
+Ahmedabad,2014,Importation of Girls From Foreign Country,330,5.2
+Allahabad,2014,Deaths due to Rash/Negligent Driving,176,31.4
+Allahabad,2014,Causing Death By Negligence (Total),0,0
+Allahabad,2014,Importation of Girls From Foreign Country,78,6.4
+Amritsar,2014,Deaths due to Rash/Negligent Driving,150,27.1
+Amritsar,2014,Causing Death By Negligence (Total),0,0
+Amritsar,2014,Importation of Girls From Foreign Country,62,5.2
+Asansol,2014,Deaths due to Rash/Negligent Driving,490,82.4
+Asansol,2014,Causing Death By Negligence (Total),0,0
+Asansol,2014,Importation of Girls From Foreign Country,211,17
+Aurangabad,2014,Deaths due to Rash/Negligent Driving,164,28.8
+Aurangabad,2014,Causing Death By Negligence (Total),0,0
+Aurangabad,2014,Importation of Girls From Foreign Country,183,15.4
+Bengaluru,2014,Deaths due to Rash/Negligent Driving,490,12.1
+Bengaluru,2014,Causing Death By Negligence (Total),0,0
+Bengaluru,2014,Importation of Girls From Foreign Country,885,10.4
+Bhopal,2014,Deaths due to Rash/Negligent Driving,295,32.9
+Bhopal,2014,Causing Death By Negligence (Total),0,0
+Bhopal,2014,Importation of Girls From Foreign Country,216,11.5
+Chandigarh City,2014,Deaths due to Rash/Negligent Driving,137,29.6
+Chandigarh City,2014,Causing Death By Negligence (Total),0,0
+Chandigarh City,2014,Importation of Girls From Foreign Country,90,8.8
+Chennai,2014,Deaths due to Rash/Negligent Driving,302,7
+Chennai,2014,Causing Death By Negligence (Total),0,0
+Chennai,2014,Importation of Girls From Foreign Country,1083,12.5
+Coimbatore,2014,Deaths due to Rash/Negligent Driving,63,5.9
+Coimbatore,2014,Causing Death By Negligence (Total),0,0
+Coimbatore,2014,Importation of Girls From Foreign Country,297,13.8
+Delhi (City),2014,Deaths due to Rash/Negligent Driving,2840,37.5
+Delhi (City),2014,Causing Death By Negligence (Total),0,0
+Delhi (City),2014,Importation of Girls From Foreign Country,1608,9.9
+Dhanbad,2014,Deaths due to Rash/Negligent Driving,31,5.5
+Dhanbad,2014,Causing Death By Negligence (Total),0,0
+Dhanbad,2014,Importation of Girls From Foreign Country,0,0
+Durg-Bhilainagar,2014,Deaths due to Rash/Negligent Driving,144,27.8
+Durg-Bhilainagar,2014,Causing Death By Negligence (Total),0,0
+Durg-Bhilainagar,2014,Importation of Girls From Foreign Country,178,16.7
+Faridabad,2014,Deaths due to Rash/Negligent Driving,302,46.2
+Faridabad,2014,Causing Death By Negligence (Total),0,0
+Faridabad,2014,Importation of Girls From Foreign Country,13,0.9
+Ghaziabad,2014,Deaths due to Rash/Negligent Driving,561,50.9
+Ghaziabad,2014,Causing Death By Negligence (Total),0,0
+Ghaziabad,2014,Importation of Girls From Foreign Country,229,9.7
+Gwalior,2014,Deaths due to Rash/Negligent Driving,352,68.6
+Gwalior,2014,Causing Death By Negligence (Total),0,0
+Gwalior,2014,Importation of Girls From Foreign Country,126,11.4
+Flyderabad,2014,Deaths due to Rash/Negligent Driving,1289,34.2
+Flyderabad,2014,Causing Death By Negligence (Total),0,0
+Flyderabad,2014,Importation of Girls From Foreign Country,441,5.7
+Indore,2014,Deaths due to Rash/Negligent Driving,182,17.5
+Indore,2014,Causing Death By Negligence (Total),0,0
+Indore,2014,Importation of Girls From Foreign Country,318,14.7
+Jabalpur,2014,Deaths due to Rash/Negligent Driving,163,27
+Jabalpur,2014,Causing Death By Negligence (Total),0,0
+Jabalpur,2014,Importation of Girls From Foreign Country,145,11.4
+Jaipur,2014,Deaths due to Rash/Negligent Driving,1155,79.4
+Jaipur,2014,Causing Death By Negligence (Total),0,0
+Jaipur,2014,Importation of Girls From Foreign Country,802,26.1
+Jamshedpur,2014,Deaths due to Rash/Negligent Driving,85,13.3
+Jamshedpur,2014,Causing Death By Negligence (Total),0,0
+Jamshedpur,2014,Importation of Girls From Foreign Country,98,7.3
+Jodhpur,2014,Deaths due to Rash/Negligent Driving,428,79.6
+Jodhpur,2014,Causing Death By Negligence (Total),0,0
+Jodhpur,2014,Importation of Girls From Foreign Country,255,22.4
+Kannur,2014,Deaths due to Rash/Negligent Driving,89,10.1
+Kannur,2014,Causing Death By Negligence (Total),0,0
+Kannur,2014,Importation of Girls From Foreign Country,68,4.1
+Kanpur,2014,Deaths due to Rash/Negligent Driving,440,33
+Kanpur,2014,Causing Death By Negligence (Total),0,0
+Kanpur,2014,Importation of Girls From Foreign Country,192,6.6
+Kochi,2014,Deaths due to Rash/Negligent Driving,166,15.4
+Kochi,2014,Causing Death By Negligence (Total),0,0
+Kochi,2014,Importation of Girls From Foreign Country,114,5.4
+Kolkata,2014,Deaths due to Rash/Negligent Driving,1141,16.8
+Kolkata,2014,Causing Death By Negligence (Total),2,0
+Kolkata,2014,Importation of Girls From Foreign Country,466,3.3
+Kollam,2014,Deaths due to Rash/Negligent Driving,296,51
+Kollam,2014,Causing Death By Negligence (Total),0,0
+Kollam,2014,Importation of Girls From Foreign Country,181,16.3
+Kota,2014,Deaths due to Rash/Negligent Driving,538,114
+Kota,2014,Causing Death By Negligence (Total),0,0
+Kota,2014,Importation of Girls From Foreign Country,119,11.9
+Kozhikode,2014,Deaths due to Rash/Negligent Driving,184,17.3
+Kozhikode,2014,Causing Death By Negligence (Total),0,0
+Kozhikode,2014,Importation of Girls From Foreign Country,141,6.9
+Lucknow,2014,Deaths due to Rash/Negligent Driving,562,40.6
+Lucknow,2014,Causing Death By Negligence (Total),0,0
+Lucknow,2014,Importation of Girls From Foreign Country,202,7
+Ludhiana,2014,Deaths due to Rash/Negligent Driving,158,21.4
+Ludhiana,2014,Causing Death By Negligence (Total),0,0
+Ludhiana,2014,Importation of Girls From Foreign Country,240,14.9
+Madurai,2014,Deaths due to Rash/Negligent Driving,69,9.5
+Madurai,2014,Causing Death By Negligence (Total),0,0
+Madurai,2014,Importation of Girls From Foreign Country,106,7.3
+Malappuram,2014,Deaths due to Rash/Negligent Driving,100,11.2
+Malappuram,2014,Causing Death By Negligence (Total),0,0
+Malappuram,2014,Importation of Girls From Foreign Country,72,4.2
+Meerut,2014,Deaths due to Rash/Negligent Driving,399,59.6
+Meerut,2014,Causing Death By Negligence (Total),0,0
+Meerut,2014,Importation of Girls From Foreign Country,179,12.6
+Mumbai,2014,Deaths due to Rash/Negligent Driving,563,6.6
+Mumbai,2014,Causing Death By Negligence (Total),0,0
+Mumbai,2014,Importation of Girls From Foreign Country,584,3.2
+Nagpur,2014,Deaths due to Rash/Negligent Driving,234,19.1
+Nagpur,2014,Causing Death By Negligence (Total),0,0
+Nagpur,2014,Importation of Girls From Foreign Country,316,12.7
+Nasik,2014,Deaths due to Rash/Negligent Driving,200,27.1
+Nasik,2014,Causing Death By Negligence (Total),1,0.1
+Nasik,2014,Importation of Girls From Foreign Country,172,11
+Patna,2014,Deaths due to Rash/Negligent Driving,404,42.1
+Patna,2014,Causing Death By Negligence (Total),0,0
+Patna,2014,Importation of Girls From Foreign Country,327,16
+Pune,2014,Deaths due to Rash/Negligent Driving,391,16.4
+Pune,2014,Causing Death By Negligence (Total),0,0
+Pune,2014,Importation of Girls From Foreign Country,456,9
+Raipur,2014,Deaths due to Rash/Negligent Driving,83,15.3
+Raipur,2014,Causing Death By Negligence (Total),0,0
+Raipur,2014,Importation of Girls From Foreign Country,145,12.9
+Rajkot,2014,Deaths due to Rash/Negligent Driving,301,45.6
+Rajkot,2014,Causing Death By Negligence (Total),0,0
+Rajkot,2014,Importation of Girls From Foreign Country,142,10.2
+Ranchi,2014,Deaths due to Rash/Negligent Driving,92,17
+Ranchi,2014,Causing Death By Negligence (Total),1,0.2
+Ranchi,2014,Importation of Girls From Foreign Country,82,7.3
+Srinagar,2014,Deaths due to Rash/Negligent Driving,63,10.6
+Srinagar,2014,Causing Death By Negligence (Total),0,0
+Srinagar,2014,Importation of Girls From Foreign Country,51,4
+Surat,2014,Deaths due to Rash/Negligent Driving,405,20.5
+Surat,2014,Causing Death By Negligence (Total),0,0
+Surat,2014,Importation of Girls From Foreign Country,244,5.3
+Thiruvananthapuram,2014,Deaths due to Rash/Negligent Driving,134,15.4
+Thiruvananthapuram,2014,Causing Death By Negligence (Total),0,0
+Thiruvananthapuram,2014,Importation of Girls From Foreign Country,125,7.4
+Thrissur,2014,Deaths due to Rash/Negligent Driving,130,13.3
+Thrissur,2014,Causing Death By Negligence (Total),0,0
+Thrissur,2014,Importation of Girls From Foreign Country,100,5.4
+Tiruch irapalli,2014,Deaths due to Rash/Negligent Driving,27,5.2
+Tiruch irapalli,2014,Causing Death By Negligence (Total),0,0
+Tiruch irapalli,2014,Importation of Girls From Foreign Country,179,17.5
+Vadodara,2014,Deaths due to Rash/Negligent Driving,306,35.1
+Vadodara,2014,Causing Death By Negligence (Total),0,0
+Vadodara,2014,Importation of Girls From Foreign Country,204,11.2
+Varanasi,2014,Deaths due to Rash/Negligent Driving,180,26.7
+Varanasi,2014,Causing Death By Negligence (Total),0,0
+Varanasi,2014,Importation of Girls From Foreign Country,67,4.7
+Vasai Virar,2014,Deaths due to Rash/Negligent Driving,51,8.9
+Vasai Virar,2014,Causing Death By Negligence (Total),0,0
+Vasai Virar,2014,Importation of Girls From Foreign Country,177,14.5
+Vijayawada,2014,Deaths due to Rash/Negligent Driving,642,86.8
+Vijayawada,2014,Causing Death By Negligence (Total),0,0
+Vijayawada,2014,Importation of Girls From Foreign Country,312,20.9
+Vishakhapatnam,2014,Deaths due to Rash/Negligent Driving,371,43.4
+Vishakhapatnam,2014,Causing Death By Negligence (Total),0,0
+Vishakhapatnam,2014,Importation of Girls From Foreign Country,360,20.8
+Agra,2014,Offences Against State (Total),0,0
+Agra,2014,Others,0,0
+Ahmedabad,2014,Offences Against State (Total),0,0
+Ahmedabad,2014,Others,0,0
+Allahabad,2014,Offences Against State (Total),0,0
+Allahabad,2014,Others,0,0
+Amritsar,2014,Offences Against State (Total),0,0
+Amritsar,2014,Others,0,0
+Asansol,2014,Offences Against State (Total),0,0
+Asansol,2014,Others,0,0
+Aurangabad,2014,Offences Against State (Total),0,0
+Aurangabad,2014,Others,0,0
+Bengaluru,2014,Offences Against State (Total),0,0
+Bengaluru,2014,Others,0,0
+Bhopal,2014,Offences Against State (Total),0,0
+Bhopal,2014,Others,0,0
+Chandigarh City,2014,Offences Against State (Total),0,0
+Chandigarh City,2014,Others,0,0
+Chennai,2014,Offences Against State (Total),0,0
+Chennai,2014,Others,0,0
+Coimbatore,2014,Offences Against State (Total),0,0
+Coimbatore,2014,Others,0,0
+Delhi (City),2014,Offences Against State (Total),0,0
+Delhi (City),2014,Others,0,0
+Dhanbad,2014,Offences Against State (Total),0,0
+Dhanbad,2014,Others,0,0
+Durg-Bhilainagar,2014,Offences Against State (Total),0,0
+Durg-Bhilainagar,2014,Others,0,0
+Faridabad,2014,Offences Against State (Total),0,0
+Faridabad,2014,Others,0,0
+Ghaziabad,2014,Offences Against State (Total),0,0
+Ghaziabad,2014,Others,0,0
+Gwalior,2014,Offences Against State (Total),0,0
+Gwalior,2014,Others,0,0
+Flyderabad,2014,Offences Against State (Total),1,0
+Flyderabad,2014,Others,0,0
+Indore,2014,Offences Against State (Total),0,0
+Indore,2014,Others,0,0
+Jabalpur,2014,Offences Against State (Total),0,0
+Jabalpur,2014,Others,0,0
+Jaipur,2014,Offences Against State (Total),0,0
+Jaipur,2014,Others,0,0
+Jamshedpur,2014,Offences Against State (Total),0,0
+Jamshedpur,2014,Others,0,0
+Jodhpur,2014,Offences Against State (Total),0,0
+Jodhpur,2014,Others,0,0
+Kannur,2014,Offences Against State (Total),0,0
+Kannur,2014,Others,0,0
+Kanpur,2014,Offences Against State (Total),0,0
+Kanpur,2014,Others,0,0
+Kochi,2014,Offences Against State (Total),0,0
+Kochi,2014,Others,0,0
+Kolkata,2014,Offences Against State (Total),0,0
+Kolkata,2014,Others,0,0
+Kollam,2014,Offences Against State (Total),0,0
+Kollam,2014,Others,0,0
+Kota,2014,Offences Against State (Total),0,0
+Kota,2014,Others,0,0
+Kozhikode,2014,Offences Against State (Total),0,0
+Kozhikode,2014,Others,0,0
+Lucknow,2014,Offences Against State (Total),0,0
+Lucknow,2014,Others,0,0
+Ludhiana,2014,Offences Against State (Total),0,0
+Ludhiana,2014,Others,0,0
+Madurai,2014,Offences Against State (Total),0,0
+Madurai,2014,Others,0,0
+Malappuram,2014,Offences Against State (Total),0,0
+Malappuram,2014,Others,0,0
+Meerut,2014,Offences Against State (Total),0,0
+Meerut,2014,Others,0,0
+Mumbai,2014,Offences Against State (Total),0,0
+Mumbai,2014,Others,0,0
+Nagpur,2014,Offences Against State (Total),0,0
+Nagpur,2014,Others,0,0
+Nasik,2014,Offences Against State (Total),0,0
+Nasik,2014,Others,0,0
+Patna,2014,Offences Against State (Total),0,0
+Patna,2014,Others,0,0
+Pune,2014,Offences Against State (Total),0,0
+Pune,2014,Others,0,0
+Raipur,2014,Offences Against State (Total),0,0
+Raipur,2014,Others,0,0
+Rajkot,2014,Offences Against State (Total),0,0
+Rajkot,2014,Others,0,0
+Ranchi,2014,Offences Against State (Total),0,0
+Ranchi,2014,Others,0,0
+Srinagar,2014,Offences Against State (Total),0,0
+Srinagar,2014,Others,0,0
+Surat,2014,Offences Against State (Total),0,0
+Surat,2014,Others,0,0
+Thiruvananthapuram,2014,Offences Against State (Total),0,0
+Thiruvananthapuram,2014,Others,0,0
+Thrissur,2014,Offences Against State (Total),0,0
+Thrissur,2014,Others,0,0
+Tiruch irapalli,2014,Offences Against State (Total),0,0
+Tiruch irapalli,2014,Others,0,0
+Vadodara,2014,Offences Against State (Total),0,0
+Vadodara,2014,Others,0,0
+Varanasi,2014,Offences Against State (Total),0,0
+Varanasi,2014,Others,0,0
+Vasai Virar,2014,Offences Against State (Total),0,0
+Vasai Virar,2014,Others,0,0
+Vijayawada,2014,Offences Against State (Total),1,0.1
+Vijayawada,2014,Others,1,0.1
+Vishakhapatnam,2014,Offences Against State (Total),0,0
+Vishakhapatnam,2014,Others,0,0
+Agra,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0.2
+Agra,2014,Disclosure of Identity of Victims,2,0.1
+Agra,2014,Offences Promoting Enmity Between Different Groups (Total),1,0.1
+Ahmedabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Ahmedabad,2014,Disclosure of Identity of Victims,0,0
+Ahmedabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Allahabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Allahabad,2014,Disclosure of Identity of Victims,0,0
+Allahabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Amritsar,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Amritsar,2014,Disclosure of Identity of Victims,0,0
+Amritsar,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Asansol,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Asansol,2014,Disclosure of Identity of Victims,1,0.1
+Asansol,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Aurangabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Aurangabad,2014,Disclosure of Identity of Victims,0,0
+Aurangabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Bengaluru,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0
+Bengaluru,2014,Disclosure of Identity of Victims,3,0
+Bengaluru,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Bhopal,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Bhopal,2014,Disclosure of Identity of Victims,0,0
+Bhopal,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Chandigarh City,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Chandigarh City,2014,Disclosure of Identity of Victims,0,0
+Chandigarh City,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Chennai,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",4,0
+Chennai,2014,Disclosure of Identity of Victims,4,0
+Chennai,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Coimbatore,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",5,0.2
+Coimbatore,2014,Disclosure of Identity of Victims,5,0.2
+Coimbatore,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Delhi (City),2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",13,0.1
+Delhi (City),2014,Disclosure of Identity of Victims,13,0.1
+Delhi (City),2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Dhanbad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Dhanbad,2014,Disclosure of Identity of Victims,0,0
+Dhanbad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Durg-Bhilainagar,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Durg-Bhilainagar,2014,Disclosure of Identity of Victims,0,0
+Durg-Bhilainagar,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Faridabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Faridabad,2014,Disclosure of Identity of Victims,0,0
+Faridabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Ghaziabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0.1
+Ghaziabad,2014,Disclosure of Identity of Victims,3,0.1
+Ghaziabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Gwalior,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Gwalior,2014,Disclosure of Identity of Victims,1,0.1
+Gwalior,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Hyderabad,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Hyderabad,2014,Disclosure of Identity of Victims,0,0
+Hyderabad,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Indore,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Indore,2014,Disclosure of Identity of Victims,0,0
+Indore,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Jabalpur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Jabalpur,2014,Disclosure of Identity of Victims,0,0
+Jabalpur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Jaipur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Jaipur,2014,Disclosure of Identity of Victims,0,0
+Jaipur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Jamshedpur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Jamshedpur,2014,Disclosure of Identity of Victims,0,0
+Jamshedpur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Jodhpur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",2,0.2
+Jodhpur,2014,Disclosure of Identity of Victims,2,0.2
+Jodhpur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kannur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Kannur,2014,Disclosure of Identity of Victims,0,0
+Kannur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kanpur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Kanpur,2014,Disclosure of Identity of Victims,0,0
+Kanpur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kochi,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0.1
+Kochi,2014,Disclosure of Identity of Victims,3,0.1
+Kochi,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kolkata,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Kolkata,2014,Disclosure of Identity of Victims,0,0
+Kolkata,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kollam,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",6,0.5
+Kollam,2014,Disclosure of Identity of Victims,6,0.5
+Kollam,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kota,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",4,0.4
+Kota,2014,Disclosure of Identity of Victims,4,0.4
+Kota,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Kozhikode,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0
+Kozhikode,2014,Disclosure of Identity of Victims,1,0
+Kozhikode,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Lucknow,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",2,0.1
+Lucknow,2014,Disclosure of Identity of Victims,2,0.1
+Lucknow,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Ludhiana,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Ludhiana,2014,Disclosure of Identity of Victims,0,0
+Ludhiana,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Madurai,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Madurai,2014,Disclosure of Identity of Victims,0,0
+Madurai,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Malappuram,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Malappuram,2014,Disclosure of Identity of Victims,1,0.1
+Malappuram,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Meerut,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Meerut,2014,Disclosure of Identity of Victims,0,0
+Meerut,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Mumbai,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",2,0
+Mumbai,2014,Disclosure of Identity of Victims,2,0
+Mumbai,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Nagpur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Nagpur,2014,Disclosure of Identity of Victims,0,0
+Nagpur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Nasik,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Nasik,2014,Disclosure of Identity of Victims,0,0
+Nasik,2014,Offences Promoting Enmity Between Different Groups (Total),1,0.1
+Patna,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Patna,2014,Disclosure of Identity of Victims,0,0
+Patna,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Pune,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",2,0
+Pune,2014,Disclosure of Identity of Victims,2,0
+Pune,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Raipur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0.3
+Raipur,2014,Disclosure of Identity of Victims,3,0.3
+Raipur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Rajkot,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Rajkot,2014,Disclosure of Identity of Victims,1,0.1
+Rajkot,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Ranchi,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Ranchi,2014,Disclosure of Identity of Victims,0,0
+Ranchi,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Srinagar,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Srinagar,2014,Disclosure of Identity of Victims,0,0
+Srinagar,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Surat,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Surat,2014,Disclosure of Identity of Victims,0,0
+Surat,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Thiruvananthapuram,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",8,0.5
+Thiruvananthapuram,2014,Disclosure of Identity of Victims,8,0.5
+Thiruvananthapuram,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Thrissur,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Thrissur,2014,Disclosure of Identity of Victims,0,0
+Thrissur,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Tiruchirapalli,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Tiruchirapalli,2014,Disclosure of Identity of Victims,0,0
+Tiruchirapalli,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Vadodara,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",3,0.2
+Vadodara,2014,Disclosure of Identity of Victims,3,0.2
+Vadodara,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Varanasi,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Varanasi,2014,Disclosure of Identity of Victims,0,0
+Varanasi,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Vasai Virar,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",1,0.1
+Vasai Virar,2014,Disclosure of Identity of Victims,1,0.1
+Vasai Virar,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Vijayawada,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",2,0.1
+Vijayawada,2014,Disclosure of Identity of Victims,2,0.1
+Vijayawada,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Vishakhapatnam,2014,"Imputation, Assertions Prejudicial to National Integration (Section 153B IPC)",0,0
+Vishakhapatnam,2014,Disclosure of Identity of Victims,0,0
+Vishakhapatnam,2014,Offences Promoting Enmity Between Different Groups (Total),0,0
+Agra,2014,Causing Injuries under Rash Driving/ Road Rage,300,17.2
+Agra,2014,Unnatural Offences,0,0
+Ahmedabad,2014,Causing Injuries under Rash Driving/ Road Rage,1756,27.6
+Ahmedabad,2014,Unnatural Offences,2,0
+Allahabad,2014,Causing Injuries under Rash Driving/ Road Rage,231,19
+Allahabad,2014,Unnatural Offences,0,0
+Amritsar,2014,Causing Injuries under Rash Driving/ Road Rage,76,6.4
+Amritsar,2014,Unnatural Offences,0,0
+Asansol,2014,Causing Injuries under Rash Driving/ Road Rage,223,17.9
+Asansol,2014,Unnatural Offences,0,0
+Aurangabad,2014,Causing Injuries under Rash Driving/ Road Rage,771,64.8
+Aurangabad,2014,Unnatural Offences,0,0
+Bengaluru,2014,Causing Injuries under Rash Driving/ Road Rage,4315,50.8
+Bengaluru,2014,Unnatural Offences,12,0.1
+Bhopal,2014,Causing Injuries under Rash Driving/ Road Rage,2987,158.6
+Bhopal,2014,Unnatural Offences,0,0
+Chandigarh City,2014,Causing Injuries under Rash Driving/ Road Rage,266,25.9
+Chandigarh City,2014,Unnatural Offences,0,0
+Chennai,2014,Causing Injuries under Rash Driving/ Road Rage,8527,98.1
+Chennai,2014,Unnatural Offences,0,0
+Coimbatore,2014,Causing Injuries under Rash Driving/ Road Rage,1315,61.1
+Coimbatore,2014,Unnatural Offences,0,0
+Delhi (City),2014,Causing Injuries under Rash Driving/ Road Rage,7871,48.2
+Delhi (City),2014,Unnatural Offences,12,0.1
+Dhanbad,2014,Causing Injuries under Rash Driving/ Road Rage,98,8.2
+Dhanbad,2014,Unnatural Offences,0,0
+Durg-Bhilainagar,2014,Causing Injuries under Rash Driving/ Road Rage,912,85.7
+Durg-Bhilainagar,2014,Unnatural Offences,3,0.3
+Faridabad,2014,Causing Injuries under Rash Driving/ Road Rage,0,0
+Faridabad,2014,Unnatural Offences,0,0
+Ghaziabad,2014,Causing Injuries under Rash Driving/ Road Rage,311,13.2
+Ghaziabad,2014,Unnatural Offences,1,0
+Gwalior,2014,Causing Injuries under Rash Driving/ Road Rage,1389,126
+Gwalior,2014,Unnatural Offences,1,0.1
+Hyderabad,2014,Causing Injuries under Rash Driving/ Road Rage,2254,29.1
+Hyderabad,2014,Unnatural Offences,5,0.1
+Indore,2014,Causing Injuries under Rash Driving/ Road Rage,4118,190
+Indore,2014,Unnatural Offences,1,0
+Jabalpur,2014,Causing Injuries under Rash Driving/ Road Rage,1893,149.3
+Jabalpur,2014,Unnatural Offences,3,0.2
+Jaipur,2014,Causing Injuries under Rash Driving/ Road Rage,2245,73.1
+Jaipur,2014,Unnatural Offences,0,0
+Jamshedpur,2014,Causing Injuries under Rash Driving/ Road Rage,147,11
+Jamshedpur,2014,Unnatural Offences,0,0
+Jodhpur,2014,Causing Injuries under Rash Driving/ Road Rage,317,27.9
+Jodhpur,2014,Unnatural Offences,0,0
+Kannur,2014,Causing Injuries under Rash Driving/ Road Rage,471,28.7
+Kannur,2014,Unnatural Offences,0,0
+Kanpur,2014,Causing Injuries under Rash Driving/ Road Rage,585,20
+Kanpur,2014,Unnatural Offences,0,0
+Kochi,2014,Causing Injuries under Rash Driving/ Road Rage,13431,634.1
+Kochi,2014,Unnatural Offences,3,0.1
+Kolkata,2014,Causing Injuries under Rash Driving/ Road Rage,4316,30.6
+Kolkata,2014,Unnatural Offences,13,0.1
+Kollam,2014,Causing Injuries under Rash Driving/ Road Rage,1418,127.7
+Kollam,2014,Unnatural Offences,0,0
+Kota,2014,Causing Injuries under Rash Driving/ Road Rage,649,64.8
+Kota,2014,Unnatural Offences,2,0.2
+Kozhikode,2014,Causing Injuries under Rash Driving/ Road Rage,1982,97.6
+Kozhikode,2014,Unnatural Offences,0,0
+Lucknow,2014,Causing Injuries under Rash Driving/ Road Rage,314,10.8
+Lucknow,2014,Unnatural Offences,0,0
+Ludhiana,2014,Causing Injuries under Rash Driving/ Road Rage,0,0
+Ludhiana,2014,Unnatural Offences,0,0
+Madurai,2014,Causing Injuries under Rash Driving/ Road Rage,585,40
+Madurai,2014,Unnatural Offences,0,0
+Malappuram,2014,Causing Injuries under Rash Driving/ Road Rage,1298,76.4
+Malappuram,2014,Unnatural Offences,0,0
+Meerut,2014,Causing Injuries under Rash Driving/ Road Rage,411,28.8
+Meerut,2014,Unnatural Offences,0,0
+Mumbai,2014,Causing Injuries under Rash Driving/ Road Rage,4129,22.4
+Mumbai,2014,Unnatural Offences,84,0.5
+Nagpur,2014,Causing Injuries under Rash Driving/ Road Rage,1096,43.9
+Nagpur,2014,Unnatural Offences,1,0
+Nasik,2014,Causing Injuries under Rash Driving/ Road Rage,489,31.3
+Nasik,2014,Unnatural Offences,0,0
+Patna,2014,Causing Injuries under Rash Driving/ Road Rage,0,0
+Patna,2014,Unnatural Offences,0,0
+Pune,2014,Causing Injuries under Rash Driving/ Road Rage,1299,25.7
+Pune,2014,Unnatural Offences,0,0
+Raipur,2014,Causing Injuries under Rash Driving/ Road Rage,1173,104.5
+Raipur,2014,Unnatural Offences,0,0
+Rajkot,2014,Causing Injuries under Rash Driving/ Road Rage,626,45
+Rajkot,2014,Unnatural Offences,0,0
+Ranchi,2014,Causing Injuries under Rash Driving/ Road Rage,214,19
+Ranchi,2014,Unnatural Offences,16,1.4
+Srinagar,2014,Causing Injuries under Rash Driving/ Road Rage,323,25.4
+Srinagar,2014,Unnatural Offences,0,0
+Surat,2014,Causing Injuries under Rash Driving/ Road Rage,656,14.3
+Surat,2014,Unnatural Offences,0,0
+Thiruvananthapuram,2014,Causing Injuries under Rash Driving/ Road Rage,8816,522.6
+Thiruvananthapuram,2014,Unnatural Offences,0,0
+Thrissur,2014,Causing Injuries under Rash Driving/ Road Rage,3233,174.3
+Thrissur,2014,Unnatural Offences,1,0.1
+Tiruchirapalli,2014,Causing Injuries under Rash Driving/ Road Rage,541,52.9
+Tiruchirapalli,2014,Unnatural Offences,0,0
+Vadodara,2014,Causing Injuries under Rash Driving/ Road Rage,2946,162.1
+Vadodara,2014,Unnatural Offences,0,0
+Varanasi,2014,Causing Injuries under Rash Driving/ Road Rage,0,0
+Varanasi,2014,Unnatural Offences,0,0
+Vasai Virar,2014,Causing Injuries under Rash Driving/ Road Rage,128,10.5
+Vasai Virar,2014,Unnatural Offences,0,0
+Vijayawada,2014,Causing Injuries under Rash Driving/ Road Rage,1366,91.6
+Vijayawada,2014,Unnatural Offences,1,0.1
+Vishakhapatnam,2014,Causing Injuries under Rash Driving/ Road Rage,1831,105.8
+Vishakhapatnam,2014,Unnatural Offences,0,0
